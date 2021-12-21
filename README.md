@@ -2,4 +2,5 @@
 
 Current status: Complete!  
 The TGAN Car Generator is the main Python notebook.  
-The TDCGAN proof of concept is a secondary project I did to further explore the architecture concept I was working on.
+The TDCGAN proof of concept is a secondary project I did to further explore the architecture concept I was working on.  
+Both the pruned and unpruned datasets are included as csv files
