@@ -1,1327 +1,216 @@
-"Name","Rating","Gas Mileage","Engine","EPA Class","Style Name","Drivetrain","Passenger Capacity","Passenger Doors","Body Style","Transmission","EPA Classification","Base Curb Weight (lbs)","Passenger Capacity","Front Hip Room (in)","Front Leg Room (in)","Second Shoulder Room (in)","Passenger Volume (ft³)","Second Head Room (in)","Front Shoulder Room (in)","Second Hip Room (in)","Front Head Room (in)","Second Leg Room (in)","Wheelbase (in)","Track Width, Rear (in)","Height, Overall (in)","Length, Overall (in)","Min Ground Clearance (in)","Track Width, Front (in)","Width, Max w/o mirrors (in)","Cargo Volume to Seat 1 (ft³)","Cargo Volume to Seat 2 (ft³)","Cargo Volume to Seat 3 (ft³)","Fuel Tank Capacity, Approx (gal)","Fuel Economy Est-Combined (MPG)","EPA Fuel Economy Est - City (MPG)","EPA Fuel Economy Est - Hwy (MPG)","Engine Order Code","SAE Net Torque @ RPM","Fuel System","Engine Type","SAE Net Horsepower @ RPM","Displacement","Final Drive Axle Ratio (:1)","Drivetrain","First Gear Ratio (:1)","Sixth Gear Ratio (:1)","Trans Description Cont.","Fourth Gear Ratio (:1)","Trans Order Code","Second Gear Ratio (:1)","Reverse Ratio (:1)","Trans Description Cont. Again","Fifth Gear Ratio (:1)","Trans Type","Third Gear Ratio (:1)","Brake Type","Rear Brake Rotor Diam x Thickness (in)","Disc - Rear (Yes or   )","Brake ABS System","Drum - Rear (Yes or   )","Front Brake Rotor Diam x Thickness (in)","Disc - Front (Yes or   )","Rear Drum Diam x Width (in)","Steering Type","Turning Diameter - Curb to Curb (ft)","Front Tire Order Code","Spare Tire Size","Front Tire Size","Rear Tire Order Code","Rear Tire Size","Spare Tire Order Code","Front Wheel Size (in)","Spare Wheel Material","Front Wheel Material","Rear Wheel Size (in)","Rear Wheel Material","Spare Wheel Size (in)","Suspension Type - Front","Suspension Type - Rear (Cont.)","Suspension Type - Rear","Suspension Type - Front (Cont.)","Air Bag-Frontal-Driver","Air Bag-Frontal-Passenger","Air Bag-Passenger Switch (On/Off)","Air Bag-Side Body-Front","Air Bag-Side Body-Rear","Air Bag-Side Head-Front","Air Bag-Side Head-Rear","Brakes-ABS","Child Safety Rear Door Locks","Daytime Running Lights","Traction Control","Night Vision","Rollover Protection Bars","Fog Lamps","Parking Aid","Tire Pressure Monitor","Back-Up Camera","Stability Control","Other Features","Basic Miles/km","Basic Years","Corrosion Miles/km","Corrosion Years","Drivetrain Miles/km","Drivetrain Years","Hybrid/Electric Components Miles/km","Hybrid/Electric Components Years","Roadside Assistance Miles/km","Roadside Assistance Years"
-"2021 Kia Niro","5.666666666666667","51 mpg City/46 mpg Hwy","Gas/Electric I-4, 1.6 L","Small Station Wagons","EX Premium FWD","Front Wheel Drive","5","4","Sport Utility","Transmission: 6-Speed Dual-Clutch -inc: sport mode","Small Station Wagons","3122","5","53.7","41.7","55.2","100.9","39.1","56","48.3","40.1","37.4","106.3","62.2","60.4","171.5","6.3","61.6","71.1","54.5","19.4","19.4","11.9","49","51","46","NA","195 @ 2400","Gasoline Direct Injection","Gas/Electric I-4","139 @ 5700","1.6 L/96","3.23","Front Wheel Drive","3.87","0.77","Auto-Shift Manual w/OD","0.93","NA","2.22","5.35","NA","0.96","6","1.37","4-Wheel Disc","10.3","Yes","4-Wheel","NA","11","Yes","NA","Rack-Pinion","35","NA","NA","P205/60HR16","NA","P205/60HR16","NA","16 X 6.5","NA","Aluminum","16 X 6.5","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Collision Warning (BCW) Blind Spot
-Forward Collision-Avoidance Assist (FCA) and Rear Cross-Traffic...
-Lane Departure Warning (LDW) Lane Keeping Assist
-Lane Departure Warning (LDW) Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Parking Distance Warning - Reverse (PDW-R) Rear Parking Sensors
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","60,000","5","100,000","5","100,000","10","100,000","10","60,000","5"
-"2021 Tesla Model 3","7.5","N/A","Electric","Midsize Cars","Long Range AWD","All Wheel Drive","5","4","4dr Car","Transmission: 1-Speed Automatic","Midsize Cars","4250","5","53.4","42.7","54","97","37.7","56.3","52.4","40.3","35.2","113.2","62.2","56.8","184.8","N/A","62.2","72.8","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","N/A","N/A","9.00","All Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","13.2","Yes","4-Wheel","NA","12.6","Yes","NA","Rack-Pinion","38.8","NA","NA","P235/45WR18","NA","P235/45WR18","NA","18 X 8.5","NA","Aluminum","18 X 8.5","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot
-Forward Collision Mitigation and Rear Collision Warning
-Lane Keeping Assist
-Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Restricted Driving Mode
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","12","120,000","8","N/A","N/A","50,000","4"
-"2020 Tesla Model S","8.166666666666666","N/A","Electric","Large Cars","Long Range AWD *Ltd Avail*","All Wheel Drive","5","4","4dr Car","Transmission: 1-Speed Automatic","Large Cars","4883","5","55","42.7","55","94","35.3","57.7","54.7","38.8","35.4","116.5","66.9","56.9","196","4.6","65.4","77.3","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","N/A","N/A","9.73","All Wheel Drive","8.28","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","14.4","Yes","4-Wheel","NA","14","Yes","NA","Rack-Pinion","38.8","NA","NA","P245/45WR19","NA","P245/45WR19","NA","19 X 8","NA","Aluminum","19 X 8","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot
-Forward Collision Mitigation and Rear Collision Warning
-Autopilot Lane Keeping Assist
-Autopilot Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Restricted Driving Mode
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","12","Unlimited","8","N/A","N/A","50,000","4"
-"2021 Chevrolet Bolt EV","6.833333333333333","N/A","Electric,","Small station wagon","5dr Wgn LT","Front Wheel Drive","5","4","4dr Car","N/A","Small station wagon","3563","5","51.6","41.6","52.8","94.4","37.9","54.6","50.8","39.7","36.5","102.4","59.1","62.8","164","- TBD -","59.1","69.5","N/A","N/A","N/A","NA","NA","NA","NA","EN0","266","Electric","Electric","200","NA","7.05","Front Wheel Drive","NA","NA","NA","NA","NA","NA","NA","NA","NA","1","NA","Partially Regenerative Electro-Hydraulic","10 x - TBD -","Yes","4-Wheel","NA","11 x - TBD -","Yes","NA","Column-Mounted Electric Pwr","35.4","QBM","NA","P215/50R17","QBM","P215/50R17","NA","17 x - TBD -","NA","Aluminum","17 x - TBD -","Aluminum","NA","MacPherson Strut","w/Coil Springs","Compound Crank (Torsion Beam)","w/Solid Stabilizer Bar","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","StabiliTrak, stability control system with Traction Control
-Pedestrian safety signal, automated external sound generator at...
-Daytime Running Lamps, LED with signature lighting
-Airbags, driver and front passenger dual-stage frontal includes...
-OnStar and Chevrolet connected services capable (Terms and...
-HD Rear Vision Camera
-Seat belts, 3-point, driver and front passenger includes...
-Seat belts, 3-point, rear outboard and center position
-Restraint provisions, child, Isofix 2 point only, point/latch,...
-Seat belt indicator, driver
-Seat belt indicator, front passenger
-Door locks, rear child security
-Teen Driver a configurable feature that lets you activate...
-Tire Pressure Monitor System, manual learn
-Tire Fill Alert","36,000","3","100,000","6","60,000","5","100,000","8","60,000","5"
-"2021 Ford Mustang Mach-E","8.6","N/A","Electric","Small Station Wagons","California Route 1 RWD","Rear Wheel Drive","5","4","Sport Utility","Transmission: Single Speed","Small Station Wagons","4727","5","55.4","43.3","55.9","101.1","39.3","57.6","53.2","40.4","38.1","117.5","63.4","64","186","5.7","63.5","N/A","59.7","29.7","29.7","N/A","N/A","N/A","N/A","997","317","N/A","Electric","290","N/A","9.05","Rear Wheel Drive","N/A","N/A","Automatic","N/A","44A","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","N/A","Yes","4-Wheel","NA","N/A","Yes","N/A","Rack-Pinion","38.1","NA","NA","P225/60WR18","NA","P225/60WR18","NA","18 X 8","NA","Aluminum","18 X 8","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-AdvanceTrac Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Ford Co-Pilot360 - BLIS (Blind Spot Information System) Blind...
-Ford Co-Pilot360 - Automatic Emergency Braking (AEB)
-Lane Keeping Alert Lane Keeping Assist
-Lane Keeping Alert Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Evasion Assist
-Collision Mitigation-Rear
-Reverse Sensing System Automated Parking Sensors
-Aerial View Camera System
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag and Rear Side-Impact Airbag
-Mykey System -inc: Top Speed Limiter, Audio Volume Limiter,...
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera w/Washer
-Left Side Camera
-Right Side Camera","36,000","3","Unlimited","5","60,000","5","24,000","2","60,000","5"
-"2021 Volkswagen ID.4","7.0","N/A","Electric","Small SUV 2WD","1st Edition RWD","Rear Wheel Drive","5","4","Sport Utility","Transmission: Single-Speed Automatic","Small SUV 2WD","4665","5","54.4","41.1","55.9","99.9","38.4","57.5","46.7","41.1","37.6","108.9","61.6","64.4","180.5","N/A","62.5","72.9","64.2","30.3","30.3","N/A","N/A","N/A","N/A","NA","229","N/A","Electric","201","N/A","4.39","Rear Wheel Drive","2.96","N/A","Automatic","N/A","MN","N/A","2.96","NA","N/A","1","N/A","Front Disc/Rear Drum","11","N/A","4-Wheel","Yes","13.4","Yes","11","Rack-Pinion","33.6","NA","NA","P235/50TR20","NA","P255/45TR20","NA","20 X 8","NA","Aluminum","20 X 9","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Park Distance Control Front And Rear Parking Sensors
-Active Side Assist Blind Spot
-Front Assist (Forward Collision Warning and Autonomous Emergency...
-Lane Assist (Lane Keeping System) Lane Keeping Assist
-Lane Assist (Lane Keeping System) Lane Departure Warning
-Collision Mitigation-Front
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Side Curtain Protection Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera w/Washer","50,000","4","100,000","7","50,000","4","N/A","N/A","36,000","3"
-"2022 Honda Accord","7.333333333333333","48 mpg City/47 mpg Hwy","Gas/Electric I-4, 2.0 L","Large Cars","EX-L Hybrid Sedan","Front Wheel Drive","5","4","4dr Car","N/A","Large Cars","3388","5","55.3","42.3","56.5","102.7","37.2","58.3","55","37.5","40.4","111.4","63.4","57.1","196.1","5.8","63","73.3","N/A","N/A","N/A","12.8","47","48","47","NA","129 @ 3500","Sequential MPI","Gas/Electric I-4","212 @ 6200","2.0 L/122","3.42","Front Wheel Drive","2.45 - 2.45","N/A","CVT w/OD","N/A","NA","N/A","8.40","NA","N/A","1","N/A","4-Wheel Disc","11.1","Yes","4-Wheel","NA","12.3","Yes","NA","Rack-Pinion","38.2","NA","NA","P225/50VR17","NA","P225/50VR17","NA","17 X 7.5","NA","Aluminum","17 X 7.5","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Vehicle Stability Assist (VSA) Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Lane Keeping Assist
-Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Collision Mitigation Braking System (CMBS) + FCW and Rear Cross...
-Front And Rear Parking Sensors
-Blind Spot Information (BSI) System Blind Spot
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","36,000","3"
-"2022 Toyota Camry","7.166666666666667","51 mpg City/53 mpg Hwy","Gas/Electric I-4, 2.5 L","Midsize Cars","Hybrid LE CVT (Natl)","Front Wheel Drive","5","4","4dr Car","N/A","Midsize Cars","3480","5","55.4","42.1","55.7","99.9","37.6","57.7","54.6","38.3","38","111.2","63.2","56.9","192.1","5.7","63","72.4","N/A","N/A","N/A","13.2","52","51","53","NA","163 @ 5200","Port/Direct Injection","Gas/Electric I-4","208 @ 5700","2.5 L/152","3.29","Front Wheel Drive","N/A","N/A","CVT w/OD","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.1","Yes","4-Wheel","NA","12","Yes","NA","Rack-Pinion","37.4","NA","Compact","P205/65VR16","NA","P205/65VR16","NA","16 X 6.5","Steel","Steel","16 X 6.5","Steel","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Toyota Safety Sense (TSS) 2.5+
-Lane Departure Alert (LDA) w/Steering Assist Lane Keeping Assist
-Lane Departure Alert (LDA) w/Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Pressure Monitor System (TPMS) Tire Specific Low Tire...
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","Unlimited","2"
-"2022 Ford Mustang Mach-E","8.5","N/A","Electric","Small Station Wagons","California Route 1 AWD","All Wheel Drive","5","4","Sport Utility","Transmission: Single Speed","Small Station Wagons","4727","5","55.4","43.3","55.9","101.1","39.3","57.6","53.2","40.4","38.1","117.5","63.4","63.9","186","5.7","63.5","N/A","59.7","29.7","29.7","N/A","N/A","N/A","N/A","99U","428","N/A","Electric","346","N/A","9.05","All Wheel Drive","N/A","N/A","Automatic","N/A","44A","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","N/A","Yes","4-Wheel","NA","N/A","Yes","N/A","Rack-Pinion","38.1","NA","NA","P225/60WR18","NA","P225/60WR18","NA","18 X 8","NA","Aluminum","18 X 8","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-AdvanceTrac Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Ford Co-Pilot360 - BLIS (Blind Spot Information System) Blind...
-Ford Co-Pilot360 - Automatic Emergency Braking (AEB)
-Lane Keeping Alert Lane Keeping Assist
-Lane Keeping Alert Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Evasion Assist
-Collision Mitigation-Rear
-Reverse Sensing System Automated Parking Sensors
-Aerial View Camera System
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag and Rear Side-Impact Airbag
-Mykey System -inc: Top Speed Limiter, Audio Volume Limiter,...
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera w/Washer
-Left Side Camera
-Right Side Camera","36,000","3","Unlimited","5","60,000","5","24,000","2","60,000","5"
-"2021 Nissan Leaf","7.166666666666667","N/A","Electric","Midsize Cars","S Hatchback","Front Wheel Drive","5","4","4dr Car","Transmission: Single Speed Reducer","Midsize Cars","3538","5","51.7","42.1","52.5","92.4","37.3","54.3","50","41.2","33.5","106.3","61.2","61.4","176.4","N/A","60.6","70.5","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","236","N/A","Electric","147 @ 3282","N/A","8.19","Front Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.5","Yes","4-Wheel","NA","11.1","Yes","NA","Rack-Pinion","34.8","NA","NA","P205/55HR16","NA","P205/55HR16","NA","16 X 6.5","NA","Steel","16 X 6.5","Steel","NA","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Rear Parking Sensors
-Intelligent Blind Spot Intervention Blind Spot
-Intelligent Forward Collision Warning with AEB
-Intelligent Lane Intervention (I-LI) Lane Keeping Assist
-Intelligent Lane Intervention (I-LI) Lane Departure Warning
-Collision Mitigation-Front
-Collision Mitigation-Rear
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-RearView Monitor Back-Up Camera","36,000","3","Unlimited","5","60,000","5","60,000","5","Unlimited","3"
-"2021 Toyota Mirai","7.2","N/A","Electric","Compact Cars","Limited Sedan","Rear Wheel Drive","5","4","4dr Car","Transmission: 1-Speed Automatic","Compact Cars","4335","5","56.5","42.2","54.4","N/A","37.4","58.4","52.8","38.4","33.1","114.9","63.1","57.9","195.8","N/A","63.3","74.2","N/A","N/A","N/A","37.5","65 (Est)","67 (Est)","64 (Est)","NA","221","Hydrogen","Electric","182","N/A","N/A","Rear Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","N/A","Yes","4-Wheel","NA","N/A","Yes","N/A","Rack-Pinion","38.5","NA","NA","P235/55VR19","NA","P235/55VR19","NA","19 X 8","NA","Aluminum","19 X 8","Aluminum","NA","Multi-Link","Torsion Beam","Torsion Beam","Multi-Link","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-VSC Electronic Stability Control (ESC)
-Traction Control System (TCS) ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Monitor (BSM) Blind Spot
-Toyota Safety Sense (TSS) 2.5+
-Lane Departure Alert (LDA) w/Steering Assist Lane Keeping Assist
-Lane Departure Alert (LDA) w/Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Evasion Assist
-Collision Mitigation-Rear
-Intelligent Clearance Sonar (ICS) w/Intelligent Parking Assist...
-Aerial View Camera System
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Birds Eye View Camera Back-Up Camera w/Washer
-Birds Eye View Camera Front Camera
-Birds Eye View Camera Left Side Camera
-Birds Eye View Camera Right Side Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","Unlimited","3"
-"2022 Hyundai Ioniq","6.8","58 mpg City/60 mpg Hwy","Gas/Electric I-4, 1.6 L","Large Cars","Blue Hatchback","Front Wheel Drive","5","4","4dr Car","Transmission: 6-Speed EcoShift Dual Clutch -inc: SHIFTRONIC and drive mode select","Large Cars","2996","5","53.8","42.2","55","96.2","37.4","56.1","52.9","39.1","35.7","106.3","62.1","56.9","176","5.3","61.5","71.7","N/A","N/A","N/A","11.9","59","58","60","NA","109 @ 4000","Gasoline Direct Injection","Gas/Electric I-4","139 @ 5700","1.6 L/96","4.19","Front Wheel Drive","3.87","0.77","Auto-Shift Manual w/OD","0.93","NA","2.22","5.35","NA","0.96","6","1.37","4-Wheel Disc","10.3","Yes","4-Wheel","NA","11","Yes","NA","Rack-Pinion","34.8","NA","NA","P195/65HR15","NA","P195/65HR15","NA","15 X 6","NA","Aluminum","15 X 6","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Forward Collision-Avoidance Assist (FCA) w/Pedestrian Detection
-Lane Keeping Assist (LKA) Lane Keeping Assist
-Lane Keeping Assist (LKA) Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","60,000","5","Unlimited","7","100,000","10","100,000","10","Unlimited","5"
-"2021 Hyundai Kona Electric","6.8","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A"
-"2022 Audi E-Tron","8.666666666666666","N/A","Electric","Standard SUV 4WD","Chronos quattro","All Wheel Drive","5","4","Sport Utility","Transmission: Dual Single-Speed Automatic","Standard SUV 4WD","5721","5","N/A","40.8","57.2","N/A","39","58.6","N/A","38.1","39.1","115.3","64.5","65.5","193","N/A","64.7","76.2","57","28.5","28.5","N/A","N/A","N/A","N/A","NA","414","N/A","Electric","355","N/A","9.08","All Wheel Drive","N/A","N/A","Automatic","N/A","AE","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","13.8","Yes","4-Wheel","NA","15.7","Yes","NA","Rack-Pinion","40","NA","Compact","P265/45HR21","NA","P265/45HR21","NA","21 X 9.5","Steel","Aluminum","21 X 9.5","Aluminum","Compact","Multi-Link","Multi-Link","Multi-Link","Multi-Link","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","No","Yes","Electronic Stability Control (ESC) And Roll Stability Control...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Audi parking system plus Front And Rear Parking Sensors
-Audi side assist Blind Spot
-and Audi pre sense rear
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-SIDEGUARD Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...","50,000","4","Unlimited","12","50,000","4","N/A","N/A","Unlimited","4"
-"2021 Porsche Taycan","8.8","N/A","Electric","Large Cars","4 Cross Turismo AWD","All Wheel Drive","4","4","4dr Car","Transmission: 2-Speed","Large Cars","5029","4","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","114.2","66.9","55.5","195.8","N/A","67.6","77.4","42.8","15.8","15.8","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","375","N/A","8.05","All Wheel Drive","N/A","N/A","Automatic","N/A","G1X","N/A","N/A","NA","N/A","2","N/A","4-Wheel Disc","14.1","Yes","4-Wheel","NA","14.2","Yes","NA","Rack-Pinion","39.4","NA","NA","P225/55YR19","NA","P275/45YR19","NA","19 X 8","NA","Aluminum","19 X 10","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Porsche Stability Management (PSM) Electronic Stability Control...
-Porsche Traction Management (PTM) ABS And Driveline Traction...
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-ParkAssist Front And Rear Parking Sensors
-Warn and Brake Assist
-Lane Keep Assist (LKA) Lane Keeping Assist
-Lane Keep Assist (LKA) Lane Departure Warning
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Height...
-Back-Up Camera","50,000","4","Unlimited","12","50,000","4","N/A","N/A","50,000","4"
-"2022 Jaguar I-Pace","8.6","N/A","Electric","Small SUV 4WD","HSE AWD","All Wheel Drive","5","4","Sport Utility","Transmission: Concentric Single Speed Automatic","Small SUV 4WD","4784","5","N/A","40.9","54.6","N/A","38.1","57.6","N/A","39.9","35","117.7","64.9","61.3","184.3","N/A","64.1","74.6","54.1","23.2","23.2","N/A","N/A","N/A","N/A","NA","512","N/A","Electric","394 @ 4250","N/A","9.04","All Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","12.8","Yes","4-Wheel","NA","13.8","Yes","NA","Rack-Pinion","40.5","NA","NA","P245/50VR20","NA","P245/50VR20","NA","20 X 8","NA","Aluminum","20 X 8","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Cruise Control-Steering Assist
-Dynamic Stability Control (DSC) Electronic Stability Control...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Emergency Sos
-Front and Rear Parking Aid Front And Rear Parking Sensors
-Blind Spot Assist Blind Spot
-Emergency Braking and Rear Traffic Monitor
-Lane Keep Assist Lane Keeping Assist
-Lane Keep Assist Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","60,000","5","Unlimited","6","60,000","5","N/A","N/A","60,000","5"
-"2021 Tesla Model Y","7.4","N/A","Electric","Small SUV 4WD","Long Range AWD","All Wheel Drive","5","4","Sport Utility","Transmission: 1-Speed Automatic","Small SUV 4WD","4555","5","53.8","41.8","54","N/A","39.4","56.4","50.6","41","40.5","113.8","64.4","63.9","187","6.6","64.4","75.6","76.2","30.2","30.2","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","N/A","N/A","9.00","All Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","13.2","Yes","4-Wheel","NA","14","Yes","NA","Rack-Pinion","39.8","NA","NA","P255/45WR19","NA","P255/45WR19","NA","19 X 9.5","NA","Aluminum","19 X 9.5","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot
-Forward Collision Mitigation and Rear Collision Warning
-Lane Keeping Assist
-Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Restricted Driving Mode
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","12","120,000","8","N/A","N/A","50,000","4"
-"2022 Toyota Avalon","6.833333333333333","43 mpg City/43 mpg Hwy","Gas/Electric I-4, 2.5 L","Midsize Cars","Hybrid Limited FWD (Natl)","Front Wheel Drive","5","4","4dr Car","N/A","Midsize Cars","3695","5","55.8","42.1","57.1","102.2","37.1","58.3","54.7","37.4","40.4","113","63.6","56.5","195.9","5.3","62.3","72.8","N/A","N/A","N/A","13.2","43","43","43","NA","163 @ 3600","Port/Direct Injection","Gas/Electric I-4","215 @ 5700","2.5 L/152","N/A","Front Wheel Drive","N/A","N/A","CVT w/OD","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.1","Yes","4-Wheel","NA","12","Yes","NA","Rack-Pinion","38.7","NA","Compact","P235/45VR18","NA","P235/45VR18","NA","18 X 8","Steel","Aluminum","18 X 8","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-VSC Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Monitor (BSM) Blind Spot
-Pre-Collision System (PCS) and Rear Cross-Traffic Alert (RCTA)
-Lane Departure Alert (LDA) w/Steering Assist Lane Keeping Assist
-Lane Departure Alert (LDA) w/Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Pressure Monitor System (TPMS) Tire Specific Low Tire...
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","Unlimited","2"
-"2022 Toyota Corolla","6.666666666666667","31 mpg City/40 mpg Hwy","Regular Unleaded I-4, 2.0 L","Compact Cars","APEX SE CVT (SE)","Front Wheel Drive","5","4","4dr Car","N/A","Compact Cars","3110","5","53.9","42","51.7","88.6","37.1","54","51.3","38.3","34.8","106.3","61","55.9","182.5","4.7","60.3","70.1","N/A","N/A","N/A","13.2","34","31","40","NA","151 @ 4400","Port/Direct Injection","Regular Unleaded I-4","169 @ 6600","2.0 L/121","3.79","Front Wheel Drive","3.38","N/A","Automatic/CVT w/OD","N/A","NA","2.24","3.14","NA","N/A","10","0.45","4-Wheel Disc","10.2","Yes","4-Wheel","NA","10.8","Yes","NA","Rack-Pinion","35.6","AS","Compact","P225/40VR18","AS","P225/40VR18","NA","18 X 8","Steel","Aluminum","18 X 8","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Safety Connect with 1-year trial Emergency Sos
-Pre-Collision System (PCS)
-Lane Departure Alert (LDA) w/Steering Assist Lane Keeping Assist
-Lane Departure Alert (LDA) w/Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag, Rear Side-Impact Airbag and Passenger...
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","N/A","N/A","Unlimited","2"
-"2022 Honda Insight","6.5","55 mpg City/49 mpg Hwy","Gas/Electric I-4, 1.5 L","Midsize Cars","EX CVT","Front Wheel Drive","5","4","4dr Car","N/A","Midsize Cars","3000","5","53.7","42.3","55","97.6","36.9","56.9","47.3","39.3","37.4","106.3","61.6","55.6","183.6","N/A","60.9","71.6","N/A","N/A","N/A","10.6","52","55","49","NA","99 @ 5000","Sequential MPI","Gas/Electric I-4","151 @ 6000","1.5 L/91","3.42","Front Wheel Drive","2.45 - 0.81","N/A","CVT w/OD","N/A","NA","N/A","2.45","NA","N/A","1","N/A","4-Wheel Disc","10.2","Yes","4-Wheel","NA","11.1","Yes","NA","Rack-Pinion","35.7","NA","NA","P215/55VR16","NA","P215/55VR16","NA","16 X 7","NA","Aluminum","16 X 7","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Vehicle Stability Assist (VSA) Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-HondaLink Assist Emergency Sos
-Blind Spot Information (BSI) System Blind Spot
-Collision Mitigation Braking System (CMBS) + FCW and Cross...
-Lane Keeping Assist System (LKAS) Lane Keeping Assist
-Lane Keeping Assist System (LKAS) Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","36,000","3"
-"2022 Toyota Prius","5.5","58 mpg City/53 mpg Hwy","Gas/Electric I-4, 1.8 L","Midsize Cars","L Eco (Natl)","Front Wheel Drive","5","4","4dr Car","N/A","Midsize Cars","3010","5","53.4","42.3","53","93.1","37.4","55","51.9","39.4","33.4","106.3","60.6","57.9","180","N/A","60.2","69.3","N/A","N/A","N/A","11.3","56","58","53","NA","105 @ 3600","Sequential MPI","Gas/Electric I-4","121 @ 5200","1.8 L/110","4.11","Front Wheel Drive","N/A","N/A","CVT w/OD","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","10.2","Yes","4-Wheel","NA","10","Yes","NA","Rack-Pinion","33.5","NA","NA","P195/65SR15","NA","P195/65SR15","NA","15 X 6.5","NA","Aluminum","15 X 6.5","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-VSC Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Pre-Collision System (PCS)
-Lane Departure Alert (LDA) w/Steering Assist Lane Keeping Assist
-Lane Departure Alert (LDA) w/Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag, Rear Side-Impact Airbag and Passenger...
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","Unlimited","3"
-"2022 Chevrolet Malibu","5.333333333333333","29 mpg City/36 mpg Hwy","Turbocharged Gas I4, 1.5L","Midsize Cars","LS","Front Wheel Drive","5","4","4dr Car","N/A","Midsize Cars","3135","5","54.1","41.5","57.1","102.9","37.5","58.5","53.4","39.1","38.1","111.4","62.5","57.9","194.2","- TBD -","62.6","73","N/A","N/A","N/A","15.8","32","29","36","LFV","184 @ 2500-3000","Direct Injection","Turbocharged Gas I4","160 @ 5700","1.5L/91","5.10","Front Wheel Drive","- TBD -","NA","Automatic","NA","MRG","NA","- TBD -","NA","NA","1","NA","Pwr","11.3 x - TBD -","Yes","4-Wheel","NA","11.8 x - TBD -","Yes","NA","Electric Rack & Pinion","37.0","R83","T125/80R16","P205/65R16","R83","P205/65R16","ZAM","16 x 7.5","Steel","Aluminum","16 x 7.5","Aluminum","16 x - TBD -","MacPherson Strut","NA","Four-Link","w/Coil Springs","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","StabiliTrak, stability control system with brake assist includes...
-Braking control, ECM grade
-Daytime Running Lamps, integral to headlamps
-Airbags, 10 total, frontal and knee for driver and front...
-OnStar and Chevrolet connected services capable (Terms and...
-Chevrolet Connected Access capable (Subject to terms. See...
-Rear Vision Camera
-Rear Seat Reminder
-Buckle to Drive prevents vehicle from being shifted out of Park...
-LATCH system (Lower Anchors and Tethers for CHildren), for child...
-Door locks, rear child security
-Trunk latch, safety, manual release
-Tire Pressure Monitor System
-Teen Driver a configurable feature that lets you activate...","36,000","3","100,000","6","60,000","5","N/A","N/A","60,000","5"
-"2022 Toyota Highlander","7.0","35 mpg City/35 mpg Hwy","Gas/Electric I-4, 2.5 L","Standard SUV 4WD","Hybrid LE AWD (SE)","All Wheel Drive","8","4","Sport Utility","N/A","Standard SUV 4WD","4465","8","57.2","42","58.7","141.3","39.4","59","57","41.2","41","112.2","65.4","68.1","194.9","8","65.3","76","84.3","48.4","16","17.1","35","35","35","NA","175 @ 4400","Port/Direct Injection","Gas/Electric I-4","243 @ 6000","2.5 L/152","N/A","All Wheel Drive","N/A","N/A","CVT w/OD","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","13.3","Yes","4-Wheel","NA","13.3","Yes","NA","Rack-Pinion","37.4","NA","Compact","P235/65VR18","NA","P235/65VR18","NA","18 X 8","Steel","Aluminum","18 X 8","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Lane Departure Alert (LDA) w/Steering Assist Lane Keeping Assist
-Lane Departure Alert (LDA) w/Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Evasion Assist
-Blind Spot Monitor (BSM) Blind Spot
-Pre-Collision System (PCS) and Rear Cross-Traffic Alert (RCTA)
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st, 2nd And 3rd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag and Passenger Cushion Front Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera w/Washer","36,000","3","Unlimited","5","60,000","5","100,000","8","Unlimited","2"
-"2021 Toyota Venza","7.0","40 mpg City/37 mpg Hwy","Gas/Electric I-4, 2.5 L","Small SUV 4WD","LE AWD (GS)","All Wheel Drive","5","4","Sport Utility","N/A","Small SUV 4WD","3847","5","54.4","40.9","56.9","98.3","39","57.4","45.2","38.6","37.8","105.9","63.7","65.9","186.6","N/A","63","73","55.1","28.8","28.8","14.5","39","40","37","NA","163 @ 5200","Port/Direct Injection","Gas/Electric I-4","219 @ 5700","2.5 L/152","N/A","All Wheel Drive","N/A","N/A","CVT w/OD","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.1","Yes","4-Wheel","NA","12","Yes","NA","Rack-Pinion","N/A","NA","Compact","P225/60HR18","NA","P225/60HR18","NA","18 X 7","Steel","Aluminum","18 X 7","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Safety Connect with 1-year trial Emergency Sos
-Blind Spot Monitor (BSM) Blind Spot
-Pre-Collision System (PCS) and Rear Cross-Traffic Alert (RCTA)
-Lane Departure Alert (LDA) w/Steering Assist Lane Keeping Assist
-Lane Departure Alert (LDA) w/Steering Assist Lane Departure...
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag and Passenger Cushion Front Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","Unlimited","2"
-"2022 Ford Explorer","6.833333333333333","N/A","Intercooled Turbo Premium Unleaded I-4, 2.3 L","Standard SUV 4WD","Base 4WD","Four Wheel Drive","7","4","Sport Utility","Transmission: 10-Speed Automatic","Standard SUV 4WD","4345","7","59.2","43","61.9","152.7","40.5","61.8","59.1","40.7","39","119.1","66.9","70.2","198.8","8.2","66.9","78.9","87.8","47.9","18.2","17.9","23 (2021)","20 (2021)","27 (2021)","99H","310 @ 3500","Gasoline Direct Injection","Intercooled Turbo Premium Unleaded I-4","300 @ 5500","2.3 L/140","3.58","Four Wheel Drive","4.71","1.27","Automatic w/OD","1.77","44T","3.00","4.88","NA","1.52","10","2.15","4-Wheel Disc","12.6","Yes","4-Wheel","NA","13.6","Yes","NA","Rack-Pinion","N/A","NA","Compact","P255/65HR18","NA","P255/65HR18","NA","18 X 7.5","Steel","Aluminum","18 X 7.5","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","AdvanceTrac w/Roll Stability Control Electronic Stability...
-Terrain Management System ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Reverse Sensing System Rear Parking Sensors
-Ford Co-Pilot360 - BLIS (Blind Spot Information System) Blind...
-Ford Co-Pilot360 - Pre-Collision Assist with Pedestrian...
-Lane Keeping Alert Lane Keeping Assist
-Lane Keeping Alert Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Safety Canopy System Curtain 1st, 2nd And 3rd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Mykey System -inc: Top Speed Limiter, Audio Volume Limiter,...
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera w/Washer","36,000","3","Unlimited","5","60,000","5","N/A","N/A","60,000","5"
-"2022 Honda CR-V","6.5","28 mpg City/34 mpg Hwy","Intercooled Turbo Regular Unleaded I-4, 1.5 L","Small SUV 2WD","EX 2WD","Front Wheel Drive","5","4","Sport Utility","N/A","Small SUV 2WD","3398","5","55.1","41.3","55.6","102.9","39.1","57.9","49.5","38","40.4","104.8","63.7","66.1","182.1","N/A","63","73","75.8","39.2","39.2","14","30","28","34","NA","179 @ 2000","Gasoline Direct Injection","Intercooled Turbo Regular Unleaded I-4","190 @ 5600","1.5 L/91","5.64","Front Wheel Drive","2.65 - 0.41","N/A","CVT w/OD","N/A","NA","N/A","1.86","NA","N/A","1","N/A","4-Wheel Disc","10.2","Yes","4-Wheel","NA","11.1","Yes","NA","Rack-Pinion","37.4","NA","Compact","P235/60HR18","NA","P235/60HR18","NA","18 X 7.5","Steel","Aluminum","18 X 7.5","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Lane Keeping Assist System (LKAS) w/Road Departure Mitigation...
-Lane Keeping Assist System (LKAS) w/Road Departure Mitigation...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Blind Spot Information (BSI) System Blind Spot
-Collision Mitigation Braking System (CMBS) + FCW and Cross...
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","N/A","N/A","36,000","3"
-"2022 Mercedes-Benz E Class","7.833333333333333","N/A","Intercooled Turbo Gas/Electric I-6, 3.0 L","Subcompact Cars","AMG E 53 4MATIC+ Cabriolet","All Wheel Drive","4","2","Convertible","Transmission: AMG SPEEDSHIFT 9G TCT -inc: steering-wheel mounted shift paddles","Subcompact Cars","4566","4","58.7","N/A","48.3","N/A","36.4","56.1","51.5","40.7","N/A","113.1","62.8","56.2","190.6","4.7","64.1","73.2","N/A","N/A","N/A","17.4","23 (2021)","21 (2021)","27 (2021)","NA","384 @ 1800","Gasoline Direct Injection","Intercooled Turbo Gas/Electric I-6","429 @ 6100","3.0 L/183","3.07","All Wheel Drive","5.35","1.00","Automatic w/OD","1.64","NA","3.24","4.80","NA","1.21","9","2.25","4-Wheel Disc","14.2","Yes","4-Wheel","NA","14.6","Yes","NA","Rack-Pinion","39.7","NA","NA","P245/40ZR19","NA","P275/35ZR19","NA","19 X 8","NA","Aluminum","19 X 9","Aluminum","NA","Multi-Link","Multi-Link","Multi-Link","Multi-Link","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Yes","No","No","Yes","Yes","Yes","ESP w/Crosswind Assist Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Assist Blind Spot
-Active Brake Assist with Autonomous Emergency Braking
-Collision Mitigation-Front
-Driver Monitoring-Alert
-PARKTRONIC w/Active Parking Assist Automated Parking Sensors
-Aerial View Camera System
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-First Aid Kit
-Outboard Front Lap And Shoulder Safety Belts -inc: Pretensioners
-Driver Knee Airbag and Rear Side-Impact Airbag
-Surround View Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","50,000","4","50,000","4","100,000","8","50,000","4"
-"2021 BMW 3-Series","7.666666666666667","N/A","Intercooled Turbo Gas/Electric I-4, 2.0 L","Compact Cars","Plug-In Hybrid","Rear Wheel Drive","5","4","4dr Car","Transmission: 8-Speed Sport Automatic","Compact Cars","4039","5","N/A","42","54.6","N/A","37.6","56","N/A","38.7","35.2","112.2","61.8","56.9","185.7","N/A","62.2","71.9","N/A","N/A","N/A","10.6","28","N/A","N/A","NA","310","Gasoline Direct Injection","Intercooled Turbo Gas/Electric I-4","288 @ 3800","2.0 L/122","3.23","Rear Wheel Drive","4.71","1.00","Automatic w/OD","1.67","2TB","3.14","3.32","NA","1.28","8","2.11","4-Wheel Disc","N/A","Yes","4-Wheel","NA","N/A","Yes","N/A","Rack-Pinion","37.2","NA","NA","P225/45HR18","NA","P225/45HR18","NA","18 X 7.5","NA","Aluminum","18 X 7.5","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Frontal Collision Warning w/City Collision Mitigation
-Lane Departure Warning
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","50,000","4","Unlimited","12","50,000","4","80,000","8","Unlimited","4"
-"2021 BMW 7-Series","7.6","22 mpg City/29 mpg Hwy","Intercooled Turbo Premium Unleaded I-6, 3.0 L","Large Cars","Sedan","Rear Wheel Drive","5","4","4dr Car","N/A","Large Cars","4244","5","N/A","41.4","57.7","N/A","38.9","59.2","N/A","39.9","44.4","126.4","64.6","58.2","207.4","N/A","63.4","74.9","N/A","N/A","N/A","20.6","25","22","29","NA","330 @ 1500","Gasoline Direct Injection","Intercooled Turbo Premium Unleaded I-6","335 @ 5500","3.0 L/183","3.08","Rear Wheel Drive","5.25","1.00","Automatic w/OD","1.72","2TB","3.36","3.71","NA","1.32","8","2.17","4-Wheel Disc","14.5","Yes","4-Wheel","NA","14.7","Yes","NA","Rack-Pinion","42","NA","NA","P245/50VR18","NA","P245/50VR18","NA","18 X 8","NA","Aluminum","18 X 8","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","DSC Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-BMW Assist eCall Emergency Sos
-Parking Assistant Plus Automated Parking Sensors
-Active Blind Spot Detection Blind Spot
-Frontal Collision Warning w/City Collision Mitigation and...
-Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Rear Child Safety Locks
-First Aid Kit
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Surround View w/3D View Back-Up Camera
-Surround View w/3D View Front Camera
-Surround View w/3D View Left Side Camera
-Surround View w/3D View Right Side Camera","50,000","4","Unlimited","12","50,000","4","N/A","N/A","Unlimited","4"
-"2021 Volvo S90","7.5","N/A","Turbo/Supercharger Gas/Electric I-4, 2.0 L","Midsize Cars","Recharge T8 eAWD PHEV Inscription","All Wheel Drive","5","4","4dr Car","Transmission: 8-Speed Geartronic Automatic -inc: adaptive shift","Midsize Cars","4673","5","56.4","42.2","55.4","N/A","37.8","57.5","54.9","37.8","40.4","120.5","63.7","57.1","200.4","N/A","63.7","74.6","N/A","N/A","N/A","15.9","30","NA","NA","NA","472 @ 2200","Gasoline Direct Injection","Turbo/Supercharger Gas/Electric I-4","400 @ 6000","2.0 L/120","3.20","All Wheel Drive","5.25","1.00","Automatic w/OD","1.46","NA","3.03","4.01","NA","1.22","8","1.95","4-Wheel Disc","12.6","Yes","4-Wheel","NA","13.6","Yes","NA","Rack-Pinion","38.7","NA","NA","P255/40VR19","NA","P255/40VR19","NA","19 X 8.5","NA","Aluminum","19 X 8.5","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Cruise Control-Steering Assist
-DSTC/RSC Electronic Stability Control (ESC) And Roll Stability...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Volvo On-Call w/4 year subscription Emergency Sos
-Front And Rear Parking Sensors
-BLIS Blind Spot
-City Safety
-Lane Keeping Aid/Run-off Road Mitigation Lane Keeping Assist
-Lane Keeping Aid/Run-off Road Mitigation Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Collision Mitigation-Rear
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Care Key
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Park Assist Back-Up Camera","50,000","4","Unlimited","12","50,000","4","100,000","8","Unlimited","4"
-"2021 Lexus LS","7.4","17 mpg City/27 mpg Hwy","Twin Turbo Premium Unleaded V-6, 3.5 L","Midsize Cars","AWD","All Wheel Drive","5","4","4dr Car","Transmission: 10-Speed Direct-Shift Automatic -inc: Electronically controlled w/paddle shifters","Midsize Cars","4905","5","55.5","41","56.4","99.4","37.3","58.8","55.1","37.3","38.9","123","64.3","57.5","206.1","N/A","64.3","74.8","N/A","N/A","N/A","21.7","21","17","27","NA","442 @ 1600","Port/Direct Injection","Twin Turbo Premium Unleaded V-6","416 @ 6000","3.5 L/210","2.76","All Wheel Drive","4.92","1.19","Automatic w/OD","1.88","NA","3.15","5.17","NA","1.46","10","2.35","4-Wheel Disc","13.1","Yes","4-Wheel","NA","14","Yes","NA","Rack-Pinion","39.4","NA","NA","P245/50VR19","NA","P245/50VR19","NA","19 X 8","NA","Aluminum","19 X 8","Aluminum","NA","Multi-Link","Multi-Link","Multi-Link","Multi-Link","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Intuitive Parking Assist Front And Rear Parking Sensors
-Blind Spot Monitor with Lane Change Assist Blind Spot
-Lexus Safety System+
-Lane Departure Alert (LDA) with Steering Assist Lane Keeping...
-Lane Departure Alert (LDA) with Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Collision Mitigation-Rear
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-First Aid Kit
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","50,000","4","Unlimited","6","70,000","6","N/A","N/A","Unlimited","4"
-"2021 Porsche Panamera","7.4","18 mpg City/24 mpg Hwy","Twin Turbo Premium Unleaded V-6, 2.9 L","Large Cars","4 AWD","All Wheel Drive","4","4","4dr Car","Transmission: 8-Speed Porsche Doppelkupplung (PDK)","Large Cars","4301","4","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","116.1","65","56","198.8","NA","65.8","78.2","N/A","N/A","N/A","23.7","20","18","24","NA","331 @ 1800","Gasoline Direct Injection","Twin Turbo Premium Unleaded V-6","325 @ 5400","2.9 L/177","3.36","All Wheel Drive","5.97","0.84","Auto-Shift Manual w/OD","1.42","G1G","3.24","5.22","NA","1.05","8","2.08","4-Wheel Disc","13","Yes","4-Wheel","NA","13.8","Yes","NA","Rack-Pinion","39","NA","NA","P265/45YR19","NA","P295/40YR19","NA","19 X 9","NA","Aluminum","19 X 10.5","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Porsche Traction Management (PTM) ABS And Driveline Traction...
-Porsche Stability Management (PSM) Electronic Stability Control...
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-ParkAssist Front And Rear Parking Sensors
-Lane Keep Assist (LKA) Lane Keeping Assist
-Lane Keep Assist (LKA) Lane Departure Warning
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Height...
-Back-Up Camera","50,000","4","Unlimited","12","50,000","4","N/A","N/A","50,000","4"
-"2022 Lexus ES","7.333333333333333","25 mpg City/34 mpg Hwy","Regular Unleaded I-4, 2.5 L","Midsize Cars","AWD","All Wheel Drive","5","4","4dr Car","Transmission: 8-Speed Direct Shift -inc: drive mode select (normal, eco, sport)","Midsize Cars","3780","5","55","42.4","54.3","99.9","37.8","55.9","54.3","37.5","39.2","113","63.4","56.9","195.9","N/A","62.9","73.4","N/A","N/A","N/A","15.9","28","25","34","NA","184 @ 4000","Port/Direct Injection","Regular Unleaded I-4","203 @ 6500","2.5 L/152","N/A","All Wheel Drive","5.25","1.00","Automatic w/OD","1.46","NA","3.03","4.01","NA","1.22","8","1.95","4-Wheel Disc","11.1","Yes","4-Wheel","NA","12","Yes","NA","Rack-Pinion","38","NA","Compact","P215/55VR17","NA","P215/55VR17","NA","17 X 7.5","Steel","Aluminum","17 X 7.5","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Monitor with Lane Change Assist Blind Spot
-Pre-Collision System (PCS) and Rear Cross Traffic Alert (RCTA)
-Lane Departure Alert (LDA) with Steering Assist Lane Keeping...
-Lane Departure Alert (LDA) with Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Enform Remote
-Rear Child Safety Locks
-First Aid Kit
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","50,000","4","Unlimited","6","70,000","6","N/A","N/A","Unlimited","4"
-"2021 Audi A8","7.2","17 mpg City/26 mpg Hwy","Intercooled Turbo Gas/Electric V-6, 3.0 L","Large Cars","55 TFSI quattro","All Wheel Drive","5","4","4dr Car","Transmission: 8-Speed Auto w/Tiptronic","Large Cars","4773","5","N/A","41.5","57.6","N/A","38.5","59.1","N/A","38.3","44.3","123.2","64.3","58.6","208.7","N/A","64.7","76.6","N/A","N/A","N/A","21.7","21","17","26","NA","369 @ 1370","Gasoline Direct Injection","Intercooled Turbo Gas/Electric V-6","335 @ 5000","3.0 L/183","3.08","All Wheel Drive","4.71","1.00","Automatic w/OD","1.67","DA","3.14","3.32","NA","1.28","8","2.11","4-Wheel Disc","13.8","Yes","4-Wheel","NA","14.8","Yes","NA","Rack-Pinion","42.2","NA","Compact","P255/45HR19","NA","P255/45HR19","NA","19 X 9","Aluminum","Aluminum","19 X 9","Aluminum","Compact","Multi-Link","Multi-Link","Multi-Link","Multi-Link","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Emergency Sos
-Front And Rear Parking Sensors
-Audi pre sense basic
-Audi active lane departure warning Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-SIDEGUARD Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Top view with 360 surround view Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","12","50,000","4","100,000","8","Unlimited","4"
-"2021 BMW 5-Series","7.166666666666667","N/A","Intercooled Turbo Gas/Electric I-4, 2.0 L","Compact Cars","Plug-In Hybrid","Rear Wheel Drive","5","4","4dr Car","Transmission: 8-Speed Sport Automatic","Compact Cars","4222","5","N/A","41.4","55.9","98.8","37.5","58.7","N/A","38.8","36.5","117.1","64.2","58.4","195.8","N/A","63.1","73.5","N/A","N/A","N/A","12.1","26","N/A","N/A","NA","310","Gasoline Direct Injection","Intercooled Turbo Gas/Electric I-4","288 @ 3800","2.0 L/122","3.23","Rear Wheel Drive","4.71","1.00","Automatic w/OD","1.67","2TB","3.14","3.32","NA","1.28","8","2.11","4-Wheel Disc","N/A","Yes","4-Wheel","NA","N/A","Yes","N/A","Rack-Pinion","39.4","258","NA","P245/45HR18","258","P245/45HR18","NA","18 X 8","NA","Aluminum","18 X 8","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Park Distance Control Front And Rear Parking Sensors
-Active Blind Spot Detection Blind Spot
-Frontal Collision Warning w/City Collision Mitigation
-Lane Departure Warning with steering correction Lane Keeping...
-Lane Departure Warning with steering correction Lane Departure...
-Collision Mitigation-Front
-Collision Mitigation-Rear
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","50,000","4","Unlimited","12","50,000","4","80,000","8","Unlimited","4"
-"2021 Mercedes-Benz AMG GT","7.2","20 mpg City/25 mpg Hwy","Intercooled Turbo Gas/Electric I-6, 3.0 L","Compact Cars","AMG GT 43 4-Door Coupe","All Wheel Drive","4","4","4dr Car","Transmission: 9-Speed AMG SPEEDSHIFT TCT -inc: shift paddles","Compact Cars","4530","4","58.9","N/A","57.2","N/A","38.2","57.8","58.6","40.8","N/A","116.2","65.6","57.3","199.2","4.6","65.9","76.9","N/A","N/A","N/A","21.1","22","20","25","NA","369 @ 1800","Gasoline Direct Injection","Intercooled Turbo Gas/Electric I-6","362 @ 5500","3.0 L/183","3.27","All Wheel Drive","5.35","1.00","Automatic w/OD","1.64","NA","3.24","4.80","NA","1.21","9","2.25","4-Wheel Disc","14.2","Yes","4-Wheel","NA","14.2","Yes","NA","Rack-Pinion","N/A","R01","NA","P255/45ZR19","R01","P285/40ZR19","NA","19 X 9.5","NA","Aluminum","19 X 11","Aluminum","NA","Multi-Link","Multi-Link","Multi-Link","Multi-Link","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","ABS And Driveline Traction Control
-ESP w/Crosswind Assist Electronic Stability Control (ESC)
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Mercedes me connect Emergency Sos
-PRE-SAFE
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Blind Spot Assist Blind Spot
-Active Parking Assist Automated Parking Sensors
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Airbag Occupancy Sensor
-Curtain 1st And 2nd Row Airbags
-Driver Knee Airbag
-Child Seat Sensor and Rear Child Safety Locks
-First Aid Kit
-Outboard Front Lap And Shoulder Safety Belts -inc: Height...
-Back-Up Camera","50,000","4","50,000","4","50,000","4","100,000","8","50,000","4"
-"2021 Acura NSX","7.0","21 mpg City/22 mpg Hwy","Twin Turbo Gas/Electric V-6, 3.5 L","Two Seaters","Coupe","All Wheel Drive","2","2","2dr Car","Transmission: 9-Speed Dual Clutch","Two Seaters","3878","2","54.5","42.9","N/A","44","N/A","57.7","N/A","38.3","N/A","103.5","63.7","47.8","176.1","3.8","65.2","76.3","N/A","N/A","N/A","15.6","21","21","22","NA","476","Port/Direct Injection","Twin Turbo Gas/Electric V-6","573 @ 6500","3.5 L/213","3.58","All Wheel Drive","3.84","1.04","Auto-Shift Manual w/OD","1.43","NA","2.43","2.40","NA","1.21","9","1.78","4-Wheel Disc","14.2","Yes","4-Wheel","NA","14.5","Yes","NA","Rack-Pinion","39.7","NA","NA","P245/35YR19","NA","P305/30YR20","NA","19 X 8.5","NA","Forged Aluminum","20 X 11","Forged Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","No","Yes","No","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","VSA Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Outboard Front Lap And Shoulder Safety Belts -inc: Pretensioners
-Back-Up Camera","50,000","4","Unlimited","5","70,000","6","100,000","8","50,000","4"
-"2021 Lexus LC","6.8","15 mpg City/25 mpg Hwy","Premium Unleaded V-8, 5.0 L","Minicompact Cars","Convertible","Rear Wheel Drive","4","2","Convertible","Transmission: 10-Speed Sport Direct Shift Automatic -inc: paddle shift and manual mode","Minicompact Cars","4540","4","54.2","42.6","46.2","75.2","32.1","56.6","42.9","36.7","28","113","64.4","53.2","187.4","N/A","64.2","75.6","N/A","N/A","N/A","21.7","18","15","25","NA","398 @ 4800","Port/Direct Injection","Premium Unleaded V-8","471 @ 7100","5.0 L/303","2.94","Rear Wheel Drive","4.92","1.19","Automatic w/OD","1.88","NA","3.15","5.17","NA","1.46","10","2.35","4-Wheel Disc","14.1","Yes","4-Wheel","NA","15.7","Yes","NA","Rack-Pinion","35.4","NA","NA","P245/45YR20","NA","P275/40YR20","NA","20 X 8.5","NA","Aluminum","20 X 9.5","Aluminum","NA","Multi-Link","Multi-Link","Multi-Link","Multi-Link","Yes","Yes","No","Yes","No","No","No","Yes","No","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Monitor (BSM) Blind Spot
-Lane Keep Assist Lane Keeping Assist
-Lane Keep Assist Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Enform Safety Connect (complimentary 3-year subscription)...
-Intuitive Park Assist Front And Rear Parking Sensors
-Pre-Collision System (PCS)
-Collision Mitigation-Rear
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Airbag Occupancy Sensor
-Outboard Front Lap And Shoulder Safety Belts -inc: Pretensioners
-Driver And Passenger Side Airbag Head Extension, Driver And...
-Back-Up Camera","50,000","4","Unlimited","6","70,000","6","N/A","N/A","Unlimited","4"
-"2022 Land Rover Range Rover","7.8","16 mpg City/21 mpg Hwy","Intercooled Supercharger Premium Unleaded V-8, 5.0 L","No Data","Autobiography LWB","Four Wheel Drive","5","4","Sport Utility","Transmission: ZF 8-Speed Automatic (8HP70) -inc: steering wheel mounted paddle shift and 2-speed electronically controlled transfer case","N/A","5404","5","N/A","39.1","59.3","N/A","39","60.9","N/A","39.5","46.8","122.9","66.3","73.5","207.4","8.7","66.6","78.1","67.4","24.5","24.5","27.5","18","16","21","NA","461 @ 2500","Gasoline Direct Injection","Intercooled Supercharger Premium Unleaded V-8","518 @ 6000","5.0 L/305","N/A","Four Wheel Drive","4.71","1.00","Automatic w/OD","1.67","NA","3.14","3.32","NA","1.28","8","2.11","4-Wheel Disc","14.4","Yes","4-Wheel","NA","15","Yes","NA","Rack-Pinion","42.8","NA","Full-Size","P275/45WR21","NA","P275/45WR21","NA","21 X 9.5","Steel","Aluminum","21 X 9.5","Aluminum","Full-Size","Double Wishbone","N/A","Multi-Link","N/A","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-ABS And Driveline Traction Control
-Electronic Stability Control (ESC) And Roll Stability Control...
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Collision Mitigation-Front
-Park Assist Automated Parking Sensors
-Blind Spot Assist Blind Spot
-High Speed Intelligent Emergency Braking and Reverse Traffic...
-Lane Keep Assist Lane Keeping Assist
-Lane Keep Assist Lane Departure Warning
-Aerial View Camera System
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera w/Washer
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","6","50,000","4","N/A","N/A","50,000","4"
-"2021 Land Rover Range Rover Sport","7.8","N/A","Intercooled Turbo Gas/Electric I-4, 2.0 L","No Data","PHEV Autobiography","Four Wheel Drive","5","4","Sport Utility","Transmission: 8-Speed Automatic w/CommandShift -inc: gearshift paddles","N/A","5448","5","N/A","39.5","59.5","N/A","39.1","60.7","N/A","38.7","37","115.1","66.3","71","192.1","8.4","66.7","81.6","N/A","24.8","24.8","24.1","42","N/A","N/A","NA","472 @ 1500","Gasoline Direct Injection","Intercooled Turbo Gas/Electric I-4","398 @ 5500","2.0 L/122","N/A","Four Wheel Drive","4.71","1.00","Automatic w/OD","1.67","NA","3.14","3.32","NA","1.28","8","2.11","4-Wheel Disc","14.4","Yes","4-Wheel","NA","15","Yes","NA","Rack-Pinion","40.6","NA","NA","P275/45YR21","NA","P275/45YR21","NA","21 X 9.5","NA","Aluminum","21 X 9.5","Aluminum","NA","Double Wishbone","N/A","Multi-Link","N/A","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Terrain Response Electronic Stability Control (ESC) And Roll...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-InControl Protect Emergency Sos
-Lane Keep Assist Lane Keeping Assist
-Lane Keep Assist Lane Departure Warning
-Collision Mitigation-Front
-360 Parking Aid Front And Rear Parking Sensors
-Blind Spot Monitor Blind Spot
-Emergency Braking and Rear Traffic Monitor
-Driver Monitoring-Alert
-Aerial View Camera System
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Child Seat Sensor and Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Rear Traffic Monitor Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","6","50,000","4","N/A","N/A","50,000","4"
-"2022 Lincoln Aviator","7.333333333333333","17 mpg City/24 mpg Hwy","Twin Turbo Premium Unleaded V-6, 3.0 L","Standard SUV 4WD","Black Label AWD","All Wheel Drive","6","4","Sport Utility","Transmission: 10-Speed Automatic w/SelectShift","Standard SUV 4WD","4892","6","58.5","43","61.3","140.5","38.4","61.5","58.3","40.2","40.1","119.1","66.9","69.6","199.3","N/A","66.9","82.3","77.7","41.8","18.3","20.2","20","17","24","99C","415 @ 2750","Gasoline Direct Injection","Twin Turbo Premium Unleaded V-6","400 @ 5500","3.0 L/183","3.58","All Wheel Drive","4.71","1.27","Automatic w/OD","1.77","44T","3.00","4.88","NA","1.52","10","2.15","4-Wheel Disc","13.8","Yes","4-Wheel","NA","13.6","Yes","NA","Rack-Pinion","N/A","NA","Compact","P275/40WR22","NA","P275/40WR22","NA","22 X 10","Steel","Aluminum","22 X 10","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","AdvanceTrac w/RSC Electronic Stability Control (ESC) And Roll...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Lincoln Co-Pilot360 - Blind Spot Information System (BLIS) Blind...
-Lincoln Co-Pilot360 - Lane Keeping Aid Lane Keeping Assist
-Lincoln Co-Pilot360 - Lane Keeping Aid Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Front and Rear Sensing System Automated Parking Sensors
-Lincoln Co-Pilot360 - Automatic Emergency Braking
-Evasion Assist
-Collision Mitigation-Rear
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Safety Canopy System Curtain 1st, 2nd And 3rd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Mykey System -inc: Top Speed Limiter, Audio Volume Limiter,...
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Height...
-Back-Up Camera w/Washer
-Lincoln Co-Pilot360 - 360-Degree Camera Front Camera w/Washer
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","5","70,000","6","N/A","N/A","Unlimited","Unlimited"
-"2021 Mercedes-Benz GLE Class","7.333333333333333","18 mpg City/23 mpg Hwy","Intercooled Turbo Gas/Electric I-6, 3.0 L","Standard SUV 4WD","AMG GLE 53 4MATIC Coupe","All Wheel Drive","5","4","Sport Utility","Transmission: AMG SPEEDSHIFT TCT 9-Speed Automatic","Standard SUV 4WD","N/A","5","60.8","N/A","58.5","N/A","37.8","59.3","60","40.2","N/A","115.6","67.9","67.6","195.3","7.5","66.2","79.3","N/A","N/A","N/A","22.5","20","18","23","NA","384 @ 1800","Gasoline Direct Injection","Intercooled Turbo Gas/Electric I-6","429 @ 6100","3.0 L/183","N/A","All Wheel Drive","5.35","1.00","Automatic w/OD","1.64","421","3.24","4.80","NA","1.21","9","2.25","4-Wheel Disc","13.6","Yes","4-Wheel","NA","15.8","Yes","NA","Rack-Pinion","N/A","R02","Compact","P275/45HR21","R02","P315/40HR21","NA","21 X 10","Steel","Aluminum","21 X 11","Aluminum","Compact","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","ESP w/Crosswind Assist Electronic Stability Control (ESC) And...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Assist Blind Spot
-PRE-SAFE
-Collision Mitigation-Front
-Driver Monitoring-Alert
-PARKTRONIC w/Advanced Parking Assist Automated Parking Sensors
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Rear Child Safety Locks
-First Aid Kit
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","50,000","4","50,000","4","50,000","4","100,000","8","50,000","4"
-"2022 Lincoln Corsair","7.0","N/A","Gas/Electric I-4, 2.5 L","Small SUV 4WD","Grand Touring AWD","All Wheel Drive","5","4","Sport Utility","N/A","Small SUV 4WD","4398","5","55.6","43.2","56.3","102.5","38.7","57.1","50.8","39.5","38.6","106.7","63.4","64.1","180.6","7.8","62.6","74.3","57.6","27.6","27.6","12","- TBD -","- TBD -","- TBD -","99Z","N/A","Sequential MPI","Gas/Electric I-4","266 @ 5500","2.5 L/152","2.91","All Wheel Drive","N/A","N/A","CVT w/OD","N/A","445","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","N/A","Yes","4-Wheel","NA","N/A","Yes","N/A","Rack-Pinion","N/A","NA","Compact","P225/55VR19","NA","P225/55VR19","NA","19 X 8.5","Steel","Aluminum","19 X 8.5","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","AdvanceTrac w/RSC Electronic Stability Control (ESC) And Roll...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Rear Parking Sensors
-Lincoln Co-Pilot360 - Blind Spot Information System (BLIS) Blind...
-Lincoln Co-Pilot360 - Pre-Collision Assist with Automatic...
-Lincoln Co-Pilot360 - Lane Keeping Aid Lane Keeping Assist
-Lincoln Co-Pilot360 - Lane Keeping Aid Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Collision Mitigation-Rear
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Safety Canopy System Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Mykey System -inc: Top Speed Limiter, Audio Volume Limiter,...
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Lincoln Co-Pilot360 - Rear Backup Camera Back-Up Camera","50,000","4","Unlimited","5","70,000","6","100,000","8","Unlimited","Unlimited"
-"2021 Land Rover Range Rover Evoque","6.8","20 mpg City/27 mpg Hwy","Intercooled Turbo Premium Unleaded I-4, 2.0 L","Small SUV 4WD","R-Dynamic HSE AWD","All Wheel Drive","5","4","Sport Utility","Transmission: 9-Speed Automatic w/CommandShift","Small SUV 4WD","3935","5","N/A","40","55.4","N/A","38.3","56.6","N/A","38.9","33.8","105.6","64.2","64.9","172.1","8.3","64","75","50.5","21.5","21.5","17.7","22","20","27","NA","269 @ 1400","Gasoline Direct Injection","Intercooled Turbo Premium Unleaded I-4","246 @ 5500","2.0 L/122","4.54","All Wheel Drive","4.71","0.81","Automatic w/OD","1.38","NA","2.84","3.83","NA","1.00","9","1.91","4-Wheel Disc","12.8","Yes","4-Wheel","NA","13.7","Yes","NA","Rack-Pinion","38.1","NA","Compact","P235/50WR20","NA","P235/50WR20","NA","20 X 8","Steel","Aluminum","20 X 8","Aluminum","Compact","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Dynamic Stability Control (DSC) with Roll Stability Control...
-Electronic Traction Control (ETC) ABS And Driveline Traction...
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Lane Keep Assist Lane Keeping Assist
-Lane Keep Assist Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Blind Spot Assist Blind Spot
-Emergency Braking and Rear Traffic Monitor
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-3D Surround Camera Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","6","50,000","4","N/A","N/A","50,000","4"
-"2021 Land Rover Defender","6.6","17 mpg City/20 mpg Hwy","Intercooled Turbo Premium Unleaded I-4, 2.0 L","No Data","110 AWD","Four Wheel Drive","5","4","Sport Utility","Transmission: 8-Speed ZF 8HP45 Automatic","N/A","4815","5","N/A","39.1","59.2","N/A","40.4","60.8","N/A","40.6","39.1","119","66.9","77.4","197.6","8.6","67.1","79.1","78.8","34","34","23.8","18","17","20","NA","295 @ 1500","Gasoline Direct Injection","Intercooled Turbo Premium Unleaded I-4","296 @ 4000","2.0 L/122","N/A","Four Wheel Drive","4.71","1.00","Automatic w/OD","1.67","NA","3.14","3.29","NA","1.28","8","2.11","4-Wheel Disc","12.8","Yes","4-Wheel","NA","13.7","Yes","NA","Rack-Pinion","42.1","NA","Full-Size","P255/70VR18","NA","P255/70VR18","NA","18 X 8","Steel","Steel","18 X 8","Steel","Full-Size","Short And Long Arm","N/A","Multi-Link","N/A","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Dynamic Stability Control (DSC) with Roll Stability Control...
-Electronic Traction Control (ETC) ABS And Driveline Traction...
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-360 Parking Aid Front And Rear Parking Sensors
-Blind Spot Assist Blind Spot
-Emergency Braking and Rear Traffic Monitor
-Lane Keep Assist Lane Keeping Assist
-Lane Keep Assist Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-3D Surround Camera Back-Up Camera
-ClearSight Ground View Front Camera
-3D Surround Camera Left Side Camera
-3D Surround Camera Right Side Camera","50,000","4","Unlimited","6","50,000","4","N/A","N/A","50,000","4"
-"2021 Lexus RX","6.5","19 mpg City/26 mpg Hwy","Regular Unleaded V-6, 3.5 L","Small SUV 4WD","AWD","All Wheel Drive","5","4","Sport Utility","Transmission: 8-Speed Automatic","Small SUV 4WD","4387","5","56.6","44.1","57.6","99.8","39.1","57.8","56.1","39.4","38","109.8","64","67.7","192.5","N/A","64.4","74.6","32.6","16","16","19.2","22","19","26","NA","267 @ 4700","Port/Direct Injection","Regular Unleaded V-6","295 @ 6300","3.5 L/211","3.33","All Wheel Drive","5.25","1.00","Automatic w/OD","1.46","NA","3.03","4.01","NA","1.22","8","1.95","4-Wheel Disc","13.3","Yes","4-Wheel","NA","12.9","Yes","NA","Rack-Pinion","45.2","NA","Compact","P235/65VR18","NA","P235/65VR18","NA","18 X 8","Steel","Aluminum","18 X 8","Aluminum","Compact","Strut","Double Wishbone","Double Wishbone","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Emergency Sos
-Blind Spot Monitor (BSM) Blind Spot
-Lexus Safety System+ and Rear Cross Traffic Alert (RCTA)
-Lane Departure Alert (LDA) with Steering Assist Lane Keeping...
-Lane Departure Alert (LDA) with Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag, Rear Side-Impact Airbag and Passenger...
-Rear Child Safety Locks
-First Aid Kit
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","50,000","4","Unlimited","6","70,000","6","N/A","N/A","Unlimited","4"
-"2021 Lexus UX","6.333333333333333","29 mpg City/37 mpg Hwy","Premium Unleaded I-4, 2.0 L","Midsize Cars","F SPORT FWD","Front Wheel Drive","5","4","Sport Utility","Transmission: 10-Speed Direct Shift CVT","Midsize Cars","3307","5","53.8","42.1","52.9","90.4","36.3","55.1","52.3","36.5","33.1","103.9","61","60.6","177","N/A","61","72.4","N/A","17.2","17.2","12.4","32","29","37","NA","151 @ 4800","Port/Direct Injection","Premium Unleaded I-4","169 @ 6600","2.0 L/121","4.01","Front Wheel Drive","3.37","N/A","Automatic/CVT w/OD","N/A","NA","2.24","3.14","NA","N/A","10","N/A","4-Wheel Disc","11.1","Yes","4-Wheel","NA","12","Yes","NA","Rack-Pinion","34.2","NA","NA","P225/50HR18","NA","P225/50HR18","NA","18 X 7","NA","Aluminum","18 X 7","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Monitor with Lane Change Assist Blind Spot
-Pre-Collision System (PCS) and Rear Cross Traffic Alert (RCTA)
-Lane Departure Alert (LDA) with Steering Assist Lane Keeping...
-Lane Departure Alert (LDA) with Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Pressure Monitoring System Tire Specific Low Tire Pressure...
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","50,000","4","Unlimited","6","70,000","6","N/A","N/A","Unlimited","4"
-"2021 Land Rover Discovery Sport","6.2","19 mpg City/23 mpg Hwy","Intercooled Turbo Premium Unleaded I-4, 2.0 L","No Data","S 4WD","Four Wheel Drive","5","4","Sport Utility","Transmission: 9-Speed ZF9HP50 Automatic","N/A","4035","5","N/A","39.1","55.9","N/A","38.7","57.3","N/A","39.5","38.1","107.9","64.3","68","181","8.3","64","75","55.6","27.3","27.3","17.7","20","19","23","NA","269 @ 1400","Gasoline Direct Injection","Intercooled Turbo Premium Unleaded I-4","246 @ 5500","2.0 L/122","N/A","Four Wheel Drive","4.71","0.81","Automatic w/OD","1.38","NA","2.84","3.83","NA","1.00","9","1.91","4-Wheel Disc","12.8","Yes","4-Wheel","NA","13.7","Yes","NA","Rack-Pinion","38.3","NA","Compact","P235/60VR18","NA","P235/60VR18","NA","18 X 8","Steel","Aluminum","18 X 8","Aluminum","Compact","Strut","N/A","Multi-Link","N/A","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Terrain Response 2 Electronic Stability Control (ESC) And Roll...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-InControl Protect Emergency Sos
-Parking Aid Front And Rear Parking Sensors
-Emergency Braking
-Lane Keep Assist Lane Keeping Assist
-Lane Keep Assist Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-3D Surround Camera Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","6","50,000","4","N/A","N/A","50,000","4"
-"2020 Chevrolet Bolt EV","6.833333333333333","N/A","Electric,","Small station wagon","5dr Wgn LT","Front Wheel Drive","5","4","4dr Car","N/A","Small station wagon","3563","5","51.6","41.6","52.8","94.4","37.9","54.6","50.8","39.7","36.5","102.4","59.1","62.8","164","- TBD -","59.1","69.5","N/A","N/A","N/A","NA","NA","NA","NA","EN0","266","Electric","Electric","200","NA","7.05","Front Wheel Drive","NA","NA","NA","NA","NA","NA","NA","NA","NA","1","NA","Partially Regenerative Electro-Hydraulic","10 x - TBD -","Yes","4-Wheel","NA","11 x - TBD -","Yes","NA","Column-Mounted Electric Pwr","35.4","QBM","NA","P215/50R17","QBM","P215/50R17","NA","17 x - TBD -","NA","Aluminum","17 x - TBD -","Aluminum","NA","MacPherson Strut","w/Coil Springs","Compound Crank (Torsion Beam)","w/Solid Stabilizer Bar","Yes","Yes","No","Yes","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","StabiliTrak, stability control system with Traction Control
-Pedestrian safety signal, automated external sound generator at...
-Daytime Running Lamps, LED with signature lighting
-Airbags, driver and front passenger dual-stage frontal includes...
-OnStar and Chevrolet connected services capable (Terms and...
-HD Rear Vision Camera
-Seat belts, 3-point, driver and front passenger includes...
-Seat belts, 3-point, rear outboard and center position
-Restraint provisions, child, Isofix 2 point only, point/latch,...
-Seat belt indicator, driver
-Seat belt indicator, front passenger
-Door locks, rear child security
-Teen Driver a configurable feature that lets you activate...
-Tire Pressure Monitor System, manual learn
-Tire Fill Alert","36,000","3","100,000","6","60,000","5","100,000","8","60,000","5"
-"2020 Hyundai Ioniq","6.6","N/A","Electric","Midsize Cars","Limited Hatchback","Front Wheel Drive","5","4","4dr Car","Transmission: Single-Speed Reduction Gear Auto -inc: paddle shifters w/regenerative braking system","Midsize Cars","3488","5","53.8","42.2","55","96.2","37.4","56.1","52.9","38.2","35.7","106.3","61.6","58.1","176","5.9","61.2","71.7","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","218","N/A","Electric","134","N/A","7.41","Front Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.2","Yes","4-Wheel","NA","11","Yes","NA","Rack-Pinion","34.8","NA","NA","P205/55HR16","NA","P205/55HR16","NA","16 X 6.5","NA","Aluminum","16 X 6.5","Aluminum","NA","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Lane Keep Assist (LKA) Lane Keeping Assist
-Lane Keep Assist (LKA) Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Blind Spot Collision Warning (BCW) Blind Spot
-Forward Collision-Avoidance Assist (FCA) w/Pedestrian/Cyclist...
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...","60,000","5","Unlimited","7","100,000","10","N/A","N/A","Unlimited","5"
-"2020 Kia Soul","6.333333333333333","27 mpg City/33 mpg Hwy","Regular Unleaded I-4, 2.0 L","Small Station Wagons","EX IVT","Front Wheel Drive","5","4","4dr Car","N/A","Small Station Wagons","2844","5","N/A","41.1","54.7","N/A","39.5","55.5","N/A","39.4","38.8","102.4","62.4","63","165.2","6.7","62","70.9","N/A","N/A","N/A","14.3","30","27","33","NA","132 @ 4500","MPI","Regular Unleaded I-4","147 @ 6200","2.0 L/122","5.71","Front Wheel Drive","2.68 - 0.39","N/A","CVT w/OD","N/A","NA","N/A","2.82","NA","N/A","1","N/A","4-Wheel Disc","10.3","Yes","4-Wheel","NA","11","Yes","NA","Rack-Pinion","34.8","NA","Compact","P215/55HR17","NA","P215/55HR17","NA","17 X 6.5","Steel","Aluminum","17 X 6.5","Aluminum","Compact","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Collision Warning Blind Spot
-Forward Collision-Avoidance Assist (FCA)
-Lane Keeping Assist (LKA) Lane Keeping Assist
-Lane Keeping Assist (LKA) Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Collision Mitigation-Rear
-UVO link Emergency Sos
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","60,000","5","100,000","5","100,000","10","N/A","N/A","60,000","5"
-"2020 Nissan Leaf","7.0","N/A","Electric","Midsize Cars","S Hatchback","Front Wheel Drive","5","4","4dr Car","Transmission: Single Speed Reducer","Midsize Cars","3538","5","51.7","42.1","52.5","92.4","37.3","54.3","50","41.2","33.5","106.3","61.2","61.4","176.4","N/A","60.6","70.5","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","236","N/A","Electric","147 @ 3282","N/A","8.19","Front Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.5","Yes","4-Wheel","NA","11.1","Yes","NA","Rack-Pinion","34.8","NA","NA","P205/55HR16","NA","P205/55HR16","NA","16 X 6.5","NA","Steel","16 X 6.5","Steel","NA","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Intelligent Blind Spot Intervention Blind Spot
-Intelligent Forward Collision Warning with AEB
-Intelligent Lane Intervention (I-LI) Lane Keeping Assist
-Intelligent Lane Intervention (I-LI) Lane Departure Warning
-Collision Mitigation-Front
-Collision Mitigation-Rear
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-RearView Monitor Back-Up Camera","36,000","3","Unlimited","5","60,000","5","60,000","5","Unlimited","3"
-"2020 Porsche Taycan","8.8","N/A","Electric","Large Cars","4S Sedan","All Wheel Drive","4","4","4dr Car","Transmission: 2-Speed","Large Cars","4777","4","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","114.2","66.7","54.3","195.4","N/A","67.4","77.5","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","429","N/A","8.05","All Wheel Drive","N/A","N/A","Automatic","N/A","G1X","N/A","N/A","NA","N/A","2","N/A","4-Wheel Disc","14.1","Yes","4-Wheel","NA","14.2","Yes","NA","Rack-Pinion","38.4","NA","NA","P225/55YR19","NA","P275/45YR19","NA","19 X 8","NA","Aluminum","19 X 10","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Porsche Stability Management (PSM) Electronic Stability Control...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-ParkAssist Front And Rear Parking Sensors
-Warn and Brake Assist
-Lane Keep Assist (LKA) Lane Keeping Assist
-Lane Keep Assist (LKA) Lane Departure Warning
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Height...
-Back-Up Camera","50,000","4","Unlimited","12","50,000","4","N/A","N/A","50,000","4"
-"2020 Tesla Model 3","7.5","N/A","Electric","Midsize Cars","Long Range AWD","All Wheel Drive","5","4","4dr Car","Transmission: 1-Speed Automatic","Midsize Cars","4031","5","53.4","42.7","54","97","37.7","56.3","52.4","40.3","35.2","113.2","62.2","56.8","184.8","N/A","62.2","72.8","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","N/A","N/A","9.00","All Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","13.2","Yes","4-Wheel","NA","12.6","Yes","NA","Rack-Pinion","38.8","NA","NA","P235/45WR18","NA","P235/45WR18","NA","18 X 8.5","NA","Aluminum","18 X 8.5","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot
-Forward Collision Mitigation and Rear Collision Warning
-Autopilot Lane Keeping Assist
-Autopilot Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Restricted Driving Mode
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","12","120,000","8","N/A","N/A","50,000","4"
-"2020 Tesla Model Y","7.4","N/A","Electric","Small SUV 4WD","Long Range AWD","All Wheel Drive","5","4","Sport Utility","Transmission: 1-Speed Automatic","Small SUV 4WD","4416","5","53.8","41.8","54","N/A","39.4","56.4","50.6","41","40.5","113.8","64.4","63.9","187","6.6","64.4","75.6","68","NA","NA","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","N/A","N/A","9.00","All Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","13.2","Yes","4-Wheel","NA","14","Yes","NA","Rack-Pinion","39.8","NA","NA","P255/45WR19","NA","P255/45WR19","NA","19 X 9.5","NA","Aluminum","19 X 9.5","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot
-Forward Collision Mitigation and Rear Collision Warning
-Autopilot Lane Keeping Assist
-Autopilot Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Restricted Driving Mode
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","12","120,000","8","N/A","N/A","50,000","4"
-"2020 Toyota Mirai","5.4","N/A","Electric","Subcompact Cars","Sedan","Front Wheel Drive","4","4","4dr Car","Transmission: 1-Speed Automatic","Subcompact Cars","4075","4","53.4","42.5","53.5","85.7","36.8","54.3","52.4","38.5","30.1","109.4","61","60.5","192.5","5.1","60.5","71.5","N/A","N/A","N/A","32.3","66 (2019)","66 (2019)","66 (2019)","NA","247","Hydrogen","Electric","151","N/A","N/A","Front Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.4","Yes","4-Wheel","NA","11.6","Yes","NA","Rack-Pinion","37.4","NA","NA","P215/55VR17","NA","P215/55VR17","NA","17 X 7","NA","Aluminum","17 X 7","Aluminum","NA","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot Monitor (BSM) Blind Spot
-Toyota Safety Sense (TSS) 2.0 and Rear Cross-Traffic Alert (RCTA)
-Lane Departure Alert with Steering Assist (LDA w/SA) Lane...
-Lane Departure Alert with Steering Assist (LDA w/SA) Lane...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag and Passenger Cushion Front Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Height...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","Unlimited","3"
-"2019 Audi E-Tron","8.666666666666666","N/A","Electric","Standard SUV 4WD","Premium Plus quattro","All Wheel Drive","5","4","Sport Utility","Transmission: Single-Speed Automatic","Standard SUV 4WD","5754","5","N/A","40.8","57.2","N/A","38.6","58.6","N/A","39.8","39.1","115.3","65.2","65.5","193","N/A","65.2","76.3","57","28.5","28.5","N/A","N/A","N/A","N/A","NA","414","N/A","Electric","355","N/A","9.08","All Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","13.8","Yes","4-Wheel","NA","15.7","Yes","NA","Rack-Pinion","40","NA","Compact","P255/50HR20","NA","P255/50HR20","NA","20 X 9","Steel","Aluminum","20 X 9","Aluminum","Compact","Multi-Link","Multi-Link","Multi-Link","Multi-Link","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC) And Roll Stability Control...
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Audi parking system plus Front And Rear Parking Sensors
-Audi side assist Blind Spot
-Aerial View Camera System
-Audi pre sense basic and Audi pre sense rear
-Lane Departure Warning
-Collision Mitigation-Front
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-SIDEGUARD Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Top view with 360 surround view Back-Up Camera
-Top view with 360 surround view Front Camera
-Top view with 360 surround view Left Side Camera
-Top view with 360 surround view Right Side Camera","50,000","4","Unlimited","12","50,000","4","N/A","N/A","Unlimited","4"
-"2019 BMW i3","5.8","N/A","Electric","Subcompact Cars","120 Ah","Rear Wheel Drive","4","4","4dr Car","Transmission: Single Speed","Subcompact Cars","2972","4","N/A","40.5","49.2","84","37.2","53.6","N/A","39.6","31.9","101.2","62","62.9","158.3","N/A","61.9","69.9","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","184","N/A","Electric","170 @ 4800","N/A","9.70","Rear Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11","Yes","4-Wheel","NA","11","Yes","NA","Rack-Pinion","32.4","NA","NA","P155/70R19","NA","P175/60R19","NA","19 X 5","NA","Forged Aluminum","19 X 5.5","Forged Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","No","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-BMW Assist eCall Emergency Sos
-Park Distance Control Front And Rear Parking Sensors
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Outboard Front Lap And Shoulder Safety Belts -inc: Pretensioners
-Back-Up Camera","50,000","4","Unlimited","12","50,000","4","N/A","N/A","Unlimited","4"
-"2019 Chevrolet Bolt EV","6.833333333333333","N/A","Electric,","Small station wagon","5dr Wgn LT","Front Wheel Drive","5","4","4dr Car","N/A","Small station wagon","3563","5","51.6","41.6","52.8","94.4","37.9","54.6","50.8","39.7","36.5","102.4","59.1","62.8","164.0","- TBD -","59.1","69.5","N/A","N/A","N/A","NA","NA","NA","NA","EN0","266","Electric","Electric","200","NA","7.05","Front Wheel Drive","NA","NA","NA","NA","NA","NA","NA","NA","NA","1","NA","Partially Regenerative","10 x - TBD -","Yes","4-Wheel","NA","11 x - TBD -","Yes","NA","Electric Pwr","35.4","QBM","NA","P215/50R17","QBM","P215/50R17","NA","17 x - TBD -","NA","Aluminum","17 x - TBD -","Aluminum","NA","MacPherson Strut","w/Coil Springs","Compound Crank (Torsion Beam)","NA","Yes","Yes","No","Yes","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","StabiliTrak, stability control system with Traction Control
-Pedestrian safety signal, automated external sound generator at...
-Daytime Running Lamps, LED with signature lighting
-Airbags, driver and front passenger dual-stage frontal includes...
-OnStar and Chevrolet connected services capable (Fleet orders...
-Chevrolet Connected Access with 10 years of standard...
-Rear Vision Camera
-Seat belts, 3-point, driver and front passenger includes...
-Seat belts, 3-point, rear outboard and center position
-Restraint provisions, child, Isofix 2 point only, point/latch,...
-Seat belt indicator, driver
-Seat belt indicator, front passenger
-Door locks, rear child security
-LATCH system (Lower Anchors and Top tethers for CHildren), for...
-Teen Driver mode configurable feature that lets you activate...
-Tire Pressure Monitor System, manual learn
-Tire Fill Alert","36,000","3","100,000","6","60,000","5","100,000","8","60,000","5"
-"2019 FIAT 500e","5.4","N/A","Electric","Minicompact Cars","Hatch","Front Wheel Drive","4","2","2dr Car","Transmission: Single Speed","Minicompact Cars","2980","4","47.8","40.7","46.4","78.6","35.5","49.4","42.6","38.9","27.6","90.6","55","60.1","142.4","4.5","55.4","64.1","N/A","N/A","N/A","N/A","N/A","N/A","N/A","E99","147","N/A","Electric","111","N/A","9.59","Front Wheel Drive","N/A","N/A","Automatic","N/A","DAC","N/A","9.59","NA","N/A","1","N/A","4-Wheel Disc","9.4","Yes","4-Wheel","NA","11","Yes","NA","Rack-Pinion","31.3","T1A","NA","P185/55HR15","T1A","P185/55HR15","NA","15 X 5.5","NA","Aluminum","15 X 6.5","Aluminum","NA","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","No","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Rear Parking Sensors
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Outboard Front Lap And Shoulder Safety Belts -inc: Pretensioners
-ParkView Back-Up Camera","50,000","4","Unlimited","12","50,000","4","N/A","N/A","Unlimited","4"
-"2019 Honda Clarity","6.0","N/A","Electric","Midsize Cars","Sedan","Front Wheel Drive","5","4","4dr Car","Transmission: Fixed Single-Speed Direct Drive -inc: sport and normal driving modes and Shift-By-Wire (SBW)","Midsize Cars","4024","5","55.8","42.2","57.3","101.5","37.1","59.7","55.6","39.1","36.2","108.3","62.5","58.2","192.7","N/A","62.2","73.9","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","221 @ 3500","N/A","Electric","161 @ 4000","N/A","3.83","Front Wheel Drive","2.43","N/A","Automatic","N/A","NA","N/A","2.43","NA","N/A","1","N/A","4-Wheel Disc","12.2","Yes","4-Wheel","NA","12.3","Yes","NA","Rack-Pinion","38.4","NA","NA","P235/45VR18","NA","P235/45VR18","NA","18 X 8","NA","Aluminum","18 X 8","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","VSA Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Collision Mitigation Braking System (CMBS) + FCW
-Lane Keeping Assist System (LKAS) Lane Keeping Assist
-Lane Keeping Assist System (LKAS) Lane Departure Warning
-Collision Mitigation-Front
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Honda LaneWatch Right Side Camera","36,000","3","Unlimited","5","60,000","5","N/A","N/A","36,000","3"
-"2019 Hyundai Ioniq","6.0","N/A","Electric","Midsize Cars","Hatchback","Front Wheel Drive","5","4","4dr Car","Transmission: Single-Speed Reduction Gear Auto -inc: push button drive selector","Midsize Cars","3164","5","53.8","42.2","55","96.2","37.4","56.1","52.9","39.1","35.7","106.3","61.6","57.1","176","5.5","61.2","71.7","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","218","N/A","Electric","118","N/A","7.41","Front Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.2","Yes","4-Wheel","NA","11","Yes","NA","Rack-Pinion","34.8","NA","NA","P205/55HR16","NA","P205/55HR16","NA","16 X 6.5","NA","Aluminum","16 X 6.5","Aluminum","NA","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","60,000","5","Unlimited","7","100,000","10","N/A","N/A","Unlimited","5"
-"2019 Jaguar I-Pace","9.0","N/A","Electric","Small SUV 4WD","First Edition AWD","All Wheel Drive","5","4","Sport Utility","Transmission: Concentric Single Speed Automatic","Small SUV 4WD","4784","5","N/A","40.9","54.6","N/A","38.1","57.6","N/A","39.9","35","117.7","64.9","61.3","184.3","N/A","64.1","74.6","52","25.3","25.3","N/A","N/A","N/A","N/A","NA","512","N/A","Electric","394 @ 4250","N/A","9.04","All Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","12.8","Yes","4-Wheel","NA","13.8","Yes","NA","Rack-Pinion","39.3","NA","NA","P245/50VR20","NA","P245/50VR20","NA","20 X 8","NA","Aluminum","20 X 8","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","Cruise Control-Steering Assist
-Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-InControl Protect Emergency Sos
-Park Assist Automated Parking Sensors
-Lane Keep Assist Lane Keeping Assist
-Lane Keep Assist Lane Departure Warning
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Blind Spot Assist Blind Spot
-High Speed Emergency Braking and Rear Traffic Monitor
-Aerial View Camera System
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","60,000","5","Unlimited","6","60,000","5","N/A","N/A","60,000","5"
-"2019 Kia Niro","6.0","51 mpg City/46 mpg Hwy","Gas/Electric I-4, 1.6 L","Small Station Wagons","EX FWD","Front Wheel Drive","5","4","Sport Utility","Transmission: 6-Speed Dual-Clutch -inc: sport mode","Small Station Wagons","3199","5","53.7","41.7","55.2","100.9","39.1","56","48.3","40.1","37.4","106.3","62.2","60.4","171.5","6.3","61.6","71.1","54.5","19.4","19.4","11.9","49","51","46","NA","195 @ 2400","Gasoline Direct Injection","Gas/Electric I-4","139 @ 5700","1.6 L/96","3.23","Front Wheel Drive","3.87","0.77","Auto-Shift Manual w/OD","0.93","NA","2.22","5.35","NA","0.96","6","1.37","4-Wheel Disc","10.3","Yes","4-Wheel","NA","11","Yes","NA","Rack-Pinion","35","NA","NA","P205/60HR16","NA","P205/60HR16","NA","16 X 6.5","NA","Aluminum","16 X 6.5","Aluminum","NA","Strut","Multi-Link","Multi-Link","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Blind Spot Detection (BSD) w/Lane Change Assist (LCA) Blind Spot
-and Rear Cross Traffic Alert (RCTA)
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","60,000","5","100,000","5","100,000","10","100,000","10","60,000","5"
-"2019 Nissan Leaf","6.8","N/A","Electric","Midsize Cars","S Hatchback","Front Wheel Drive","5","4","4dr Car","Transmission: Single Speed Reducer","Midsize Cars","3433","5","51.7","42.1","52.5","92.4","37.3","54.3","50","41.2","33.5","106.3","61.2","61.4","176.4","N/A","60.6","70.5","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","236","N/A","Electric","147 @ 3282","N/A","8.19","Front Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.5","Yes","4-Wheel","NA","11.1","Yes","NA","Rack-Pinion","34.8","NA","NA","P205/55HR16","NA","P205/55HR16","NA","16 X 6.5","NA","Steel","16 X 6.5","Steel","NA","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","No","Yes","No","No","No","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Automatic Emergency Braking (AEB)
-Collision Mitigation-Front
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-RearView Monitor Back-Up Camera","36,000","3","Unlimited","5","60,000","5","N/A","N/A","Unlimited","3"
-"2019 smart fortwo","5.0","N/A","Electric","Two Seaters","passion cabriolet","Rear Wheel Drive","2","2","Convertible","Transmission: Single Speed","Two Seaters","2383","2","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","73.7","56.3","61.1","106.1","N/A","57.8","74.5","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","118","N/A","Electric","80","N/A","N/A","Rear Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","Front Disc/Rear Drum","8","N/A","4-Wheel","Yes","11","Yes","8","Rack-Pinion","22.8","NA","NA","P165/65TR15","NA","P185/60TR15","NA","15 X 5","NA","Aluminum","15 X 5.5","Aluminum","NA","Strut","Other","Other","Strut","Yes","Yes","No","Yes","No","Yes","No","Yes","No","Yes","Yes","No","Yes","No","No","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-First Aid Kit
-Outboard Front Lap And Shoulder Safety Belts -inc: Pretensioners
-Back-Up Camera","50,000","4","50,000","4","50,000","4","N/A","N/A","50,000","4"
-"2019 Tesla Model 3","7.333333333333333","N/A","Electric","Midsize Cars","Long Range AWD","All Wheel Drive","5","4","4dr Car","Transmission: 1-Speed Automatic","Midsize Cars","4072","5","53.4","42.7","54","97","37.7","56.3","52.4","40.3","35.2","113.2","62.2","56.8","184.8","N/A","62.2","72.8","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","N/A","N/A","9.00","All Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","13.2","Yes","4-Wheel","NA","12.6","Yes","NA","Rack-Pinion","38.8","NA","NA","P235/45WR18","NA","P235/45WR18","NA","18 X 8.5","NA","Aluminum","18 X 8.5","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot
-Forward Collision Mitigation and Rear Collision Warning
-Emergency Lane Departure Avoidance Lane Keeping Assist
-Emergency Lane Departure Avoidance Lane Departure Warning
-Aerial View Camera System
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Restricted Driving Mode
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera
-Left Side Camera
-Right Side Camera","50,000","4","Unlimited","12","120,000","8","N/A","N/A","50,000","4"
-"2019 Tesla Model X","7.666666666666667","N/A","Electric","Standard SUV 4WD","100D AWD *Ltd Avail*","All Wheel Drive","5","4","Sport Utility","Transmission: 1-Speed Automatic","Standard SUV 4WD","5421","5","55.6","41.2","56.8","N/A","40.9","60.7","59","41.7","38.4","116.7","67.3","66","198.3","5.4","67.1","78.7","87.8","NA","NA","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","N/A","N/A","9.73","All Wheel Drive","8.28","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","14.4","Yes","4-Wheel","NA","14","Yes","NA","Rack-Pinion","38.8","NA","NA","P265/45VR20","NA","P275/45VR20","NA","20 X 9","NA","Aluminum","20 X 9.5","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot
-Forward Collision Mitigation and Rear Collision Warning
-Emergency Lane Departure Avoidance Lane Keeping Assist
-Emergency Lane Departure Avoidance Lane Departure Warning
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag and Rear Side-Impact Airbag
-Restricted Driving Mode
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera
-Front Camera","50,000","4","Unlimited","12","Unlimited","8","N/A","N/A","50,000","4"
-"2019 Tesla Model S","7.833333333333333","N/A","Electric","Large Cars","100D AWD *Ltd Avail*","All Wheel Drive","5","4","4dr Car","Transmission: 1-Speed Automatic","Large Cars","4883","5","55","42.7","55","94","35.3","57.7","54.7","38.8","35.4","116.5","66.9","56.5","196","4.6","65.4","77.3","N/A","N/A","N/A","N/A","N/A","N/A","N/A","NA","N/A","N/A","Electric","N/A","N/A","9.73","All Wheel Drive","8.28","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","14.4","Yes","4-Wheel","NA","14","Yes","NA","Rack-Pinion","40.7","NA","NA","P245/45WR19","NA","P245/45WR19","NA","19 X 8","NA","Aluminum","19 X 8","Aluminum","NA","Double Wishbone","Multi-Link","Multi-Link","Double Wishbone","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot
-Forward Collision Mitigation and Rear Collision Warning
-Emergency Lane Departure Avoidance Lane Keeping Assist
-Emergency Lane Departure Avoidance Lane Departure Warning
-Collision Mitigation-Front
-Tire Specific Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver And Passenger Knee Airbag
-Restricted Driving Mode
-Power Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3...
-Back-Up Camera","50,000","4","Unlimited","12","Unlimited","8","N/A","N/A","50,000","4"
-"2019 Toyota Mirai","5.4","N/A","Electric","Subcompact Cars","Sedan","Front Wheel Drive","4","4","4dr Car","Transmission: 1-Speed Automatic","Subcompact Cars","4075","4","53.4","42.5","53.5","85.7","36.8","54.3","52.4","38.5","30.1","109.4","61","60.5","192.5","5.1","60.5","71.5","N/A","N/A","N/A","32.3","66 (Est)","66 (Est)","66 (Est)","NA","247","Hydrogen","Electric","151","N/A","N/A","Front Wheel Drive","N/A","N/A","Automatic","N/A","NA","N/A","N/A","NA","N/A","1","N/A","4-Wheel Disc","11.4","Yes","4-Wheel","NA","11.6","Yes","NA","Rack-Pinion","37.4","NA","NA","P215/55VR17","NA","P215/55VR17","NA","17 X 7","NA","Aluminum","17 X 7","Aluminum","NA","Strut","Torsion Beam","Torsion Beam","Strut","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Electronic Stability Control (ESC)
-ABS And Driveline Traction Control
-Side Impact Beams
-Dual Stage Driver And Passenger Seat-Mounted Side Airbags
-Front And Rear Parking Sensors
-Blind Spot Monitor (BSM) Blind Spot
-Toyota Safety Sense (TSS) 2.0 and Rear Cross-Traffic Alert (RCTA)
-Lane Departure Alert (LDA) w/Steering Assist Lane Keeping Assist
-Lane Departure Alert (LDA) w/Steering Assist Lane Departure...
-Collision Mitigation-Front
-Driver Monitoring-Alert
-Low Tire Pressure Warning
-Dual Stage Driver And Passenger Front Airbags
-Curtain 1st And 2nd Row Airbags
-Airbag Occupancy Sensor
-Driver Knee Airbag and Passenger Cushion Front Airbag
-Rear Child Safety Locks
-Outboard Front Lap And Shoulder Safety Belts -inc: Height...
-Back-Up Camera","36,000","3","Unlimited","5","60,000","5","100,000","8","Unlimited","3"
+Name,Rating,Engine,EPA Class,Drivetrain,Body Style,Brake Type,Front Wheel Material,Rear Wheel Material,Suspension Type - Front,Suspension Type - Rear,Trans Type,Passenger Doors,Passenger Capacity,Base Curb Weight (lbs),Front Leg Room (in),Front Shoulder Room (in),Front Head Room (in),Wheelbase (in),"Track Width, Rear (in)","Height, Overall (in)","Length, Overall (in)","Track Width, Front (in)","Width, Max w/o mirrors (in)",SAE Net Horsepower ,Rear Brake Rotor Diam * Thickness (in),Front Brake Rotor Diam * Thickness (in),Front Wheel Size (in),Rear Wheel Size (in),Basic Miles/km,Basic Years,Corrosion Years,Drivetrain Years,Air Bag-Side Body-Rear,Air Bag-Side Head-Front,Air Bag-Side Head-Rear,Child Safety Rear Door Locks,Daytime Running Lights,Rollover Protection Bars,Fog Lamps,Parking Aid,Back-Up Camera
+2021 Kia Niro,6,"Gas/Electric I-4, 1.6 L",Small Station Wagon,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3122,41.7,56,40.1,106.3,62.2,60.4,171.5,61.6,71.1,139,10.3,11,104,104,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2021 Tesla Model 3,8,Electric,Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4250,42.7,56.3,40.3,113.2,62.2,56.8,184.8,62.2,72.8,210,13.2,12.6,153,153,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Tesla Model S,8,Electric,Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4883,42.7,57.7,38.8,116.5,66.9,56.9,196,65.4,77.3,275,14.4,14,152,152,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2021 Chevrolet Bolt EV,7,Electric,Small Station Wagon,Front Wheel Drive,4dr Car,Partially Regenerative Electro-Hydraulic,Aluminum,Aluminum,MacPherson Strut,Compound Crank (Torsion Beam),1,4,5,3563,41.6,54.6,39.7,102.4,59.1,62.8,164,59.1,69.5,200,10,11,127.5,127.5,36000,3,6,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2021 Ford Mustang Mach-E,9,Electric,Small Station Wagon,Rear Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4727,43.3,57.6,40.4,117.5,63.4,64,186,63.5,70.1,290,11,13.4,144,144,36000,3,5,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2021 Volkswagen ID.4,7,Electric,Small SUV 2WD,Rear Wheel Drive,Sport Utility,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4665,41.1,57.5,41.1,108.9,61.6,64.4,180.5,62.5,72.9,201,11,13.4,160,180,50000,4,7,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2022 Honda Accord,7,"Gas/Electric I-4, 2.0 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3388,42.3,58.3,37.5,111.4,63.4,57.1,196.1,63,73.3,212,11.1,12.3,127.5,127.5,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2022 Toyota Camry,7,"Gas/Electric I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Multi-Link,1,4,5,3480,42.1,57.7,38.3,111.2,63.2,56.9,192.1,63,72.4,208,11.1,12,104,104,36000,3,5,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Ford Mustang Mach-E,8,Electric,Small Station Wagon,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4727,43.3,57.6,40.4,117.5,63.4,63.9,186,63.5,70.1,346,11,13.4,144,144,36000,3,5,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2021 Nissan Leaf,7,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Torsion Beam,1,4,5,3538,42.1,54.3,41.2,106.3,61.2,61.4,176.4,60.6,70.5,147,11.5,11.1,104,104,36000,3,5,5,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+2021 Toyota Mirai,7,Electric,Compact,Rear Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Torsion Beam,1,4,5,4335,42.2,58.4,38.4,114.9,63.1,57.9,195.8,63.3,74.2,182,11.4,11.6,152,152,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Hyundai Ioniq,7,"Gas/Electric I-4, 1.6 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,2996,42.2,56.1,39.1,106.3,62.1,56.9,176,61.5,71.7,139,10.3,11,90,90,60000,5,7,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Audi E-Tron,9,Electric,Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,1,4,5,5721,40.8,58.6,38.1,115.3,64.5,65.5,193,64.7,76.2,355,13.8,15.7,199.5,199.5,50000,4,12,4,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+2022 Jaguar I-Pace,9,Electric,Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4784,40.9,57.6,39.9,117.7,64.9,61.3,184.3,64.1,74.6,394,12.8,13.8,160,160,60000,5,6,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2021 Tesla Model Y,7,Electric,Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4555,41.8,56.4,41,113.8,64.4,63.9,187,64.4,75.6,154,13.2,14,180.5,180.5,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2022 Toyota Avalon,7,"Gas/Electric I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3695,42.1,58.3,37.4,113,63.6,56.5,195.9,62.3,72.8,215,11.1,12,144,144,36000,3,5,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Toyota Corolla,7,"Regular Unleaded I-4, 2.0 L",Compact,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,10,4,5,3110,42,54,38.3,106.3,61,55.9,182.5,60.3,70.1,169,10.2,10.8,144,144,36000,3,5,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Honda Insight,6,"Gas/Electric I-4, 1.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3000,42.3,56.9,39.3,106.3,61.6,55.6,183.6,60.9,71.6,151,10.2,11.1,112,112,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Toyota Prius,6,"Gas/Electric I-4, 1.8 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3010,42.3,55,39.4,106.3,60.6,57.9,180,60.2,69.3,121,10.2,10,97.5,97.5,36000,3,5,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Chevrolet Malibu,5,"Turbocharged Gas I4, 1.5L",Midsize,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,4-Link,1,4,5,3135,41.5,58.5,39.1,111.4,62.5,57.9,194.2,62.6,73,160,11.3,11.8,120,120,36000,3,6,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Toyota Highlander,7,"Gas/Electric I-4, 2.5 L",Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,8,4465,42,59,41.2,112.2,65.4,68.1,194.9,65.3,76,243,13.3,13.3,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2021 Toyota Venza,7,"Gas/Electric I-4, 2.5 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3847,40.9,57.4,38.6,105.9,63.7,65.9,186.6,63,73,219,11.1,12,126,126,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Ford Explorer,7,"Intercooled Turbo Premium Unleaded I-4, 2.3 L",Standard SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,10,4,7,4345,43,61.8,40.7,119.1,66.9,70.2,198.8,66.9,78.9,300,12.6,13.6,135,135,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2022 Honda CR-V,6,"Intercooled Turbo Regular Unleaded I-4, 1.5 L",Small SUV 2WD,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3398,41.3,57.9,38,104.8,63.7,66.1,182.1,63,73,190,10.2,11.1,135,135,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2022 Mercedes-Benz E Class,8,"Intercooled Turbo Gas/Electric I-6, 3.0 L",Subcompact Car,All Wheel Drive,Convertible,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,9,2,4,4566,41.3,56.1,40.7,113.1,62.8,56.2,190.6,64.1,73.2,429,14.2,14.6,152,171,50000,4,4,4,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+2021 BMW 3-Series,8,"Intercooled Turbo Gas/Electric I-4, 2.0 L",Compact,Rear Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,8,4,5,4039,42,56,38.7,112.2,61.8,56.9,185.7,62.2,71.9,288,14.5,14.7,135,135,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2021 BMW 7-Series,8,"Intercooled Turbo Premium Unleaded I-6, 3.0 L",Large Cars,Rear Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,4244,41.4,59.2,39.9,126.4,64.6,58.2,207.4,63.4,74.9,335,14.5,14.7,144,144,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2021 Volvo S90,8,"Turbo/Supercharger Gas/Electric I-4, 2.0 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,4673,42.2,57.5,37.8,120.5,63.7,57.1,200.4,63.7,74.6,400,12.6,13.6,161.5,161.5,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2021 Lexus LS,7,"Twin Turbo Premium Unleaded V-6, 3.5 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,10,4,5,4905,41,58.8,37.3,123,64.3,57.5,206.1,64.3,74.8,416,13.1,14,152,152,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2022 Lexus ES,7,"Regular Unleaded I-4, 2.5 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,8,4,5,3780,42.4,55.9,37.5,113,63.4,56.9,195.9,62.9,73.4,203,11.1,12,127.5,127.5,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2021 Audi A8,7,"Intercooled Turbo Gas/Electric V-6, 3.0 L",Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,8,4,5,4773,41.5,59.1,38.3,123.2,64.3,58.6,208.7,64.7,76.6,335,13.8,14.8,171,171,50000,4,12,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2021 BMW 5-Series,7,"Intercooled Turbo Gas/Electric I-4, 2.0 L",Compact,Rear Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,4222,41.4,58.7,38.8,117.1,64.2,58.4,195.8,63.1,73.5,288,14.5,14.7,144,144,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2021 Mercedes-Benz AMG GT,7,"Intercooled Turbo Gas/Electric I-6, 3.0 L",Compact,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,9,4,4,4530,41.7,57.8,40.8,116.2,65.6,57.3,199.2,65.9,76.9,362,14.2,14.2,180.5,209,50000,4,4,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2021 Acura NSX,7,"Twin Turbo Gas/Electric V-6, 3.5 L",Two Seaters,All Wheel Drive,2dr Car,4-Wheel Disc,Forged Aluminum,Forged Aluminum,Double Wishbone,Multi-Link,9,2,2,3878,42.9,57.7,38.3,103.5,63.7,47.8,176.1,65.2,76.3,573,14.2,14.5,161.5,220,50000,4,5,6,No,Yes,No,No,Yes,No,No,Yes,Yes
+2021 Lexus LC,7,"Premium Unleaded V-8, 5.0 L",Minicompact,Rear Wheel Drive,Convertible,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,10,2,4,4540,42.6,56.6,36.7,113,64.4,53.2,187.4,64.2,75.6,471,14.1,15.7,170,190,50000,4,6,6,No,No,No,No,Yes,Yes,No,Yes,Yes
+2022 Land Rover Range Rover,8,"Intercooled Supercharger Premium Unleaded V-8, 5.0 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,5404,39.1,60.9,39.5,122.9,66.3,73.5,207.4,66.6,78.1,518,14.4,15,199.5,199.5,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2021 Land Rover Range Rover Sport,8,"Intercooled Turbo Gas/Electric I-4, 2.0 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,5448,39.5,60.7,38.7,115.1,66.3,71,192.1,66.7,81.6,398,14.4,15,199.5,199.5,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2022 Lincoln Aviator,7,"Twin Turbo Premium Unleaded V-6, 3.0 L",Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,10,4,6,4892,43,61.5,40.2,119.1,66.9,69.6,199.3,66.9,82.3,400,13.8,13.6,220,220,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2021 Mercedes-Benz GLE Class,7,"Intercooled Turbo Gas/Electric I-6, 3.0 L",Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,9,4,5,4751,40.3,59.3,40.2,115.6,67.9,67.6,195.3,66.2,79.3,429,13.6,15.8,210,231,50000,4,4,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2022 Lincoln Corsair,7,"Gas/Electric I-4, 2.5 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4398,43.2,57.1,39.5,106.7,63.4,64.1,180.6,62.6,74.3,266,11,13.4,161.5,161.5,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2021 Land Rover Range Rover Evoque,7,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,9,4,5,3935,40,56.6,38.9,105.6,64.2,64.9,172.1,64,75,246,12.8,13.7,160,160,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2021 Land Rover Defender,7,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Steel,Steel,Short And Long Arm,Multi-Link,8,4,5,4815,39.1,60.8,40.6,119,66.9,77.4,197.6,67.1,79.1,296,12.8,13.7,144,144,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2021 Lexus RX,6,"Regular Unleaded V-6, 3.5 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Double Wishbone,8,4,5,4387,44.1,57.8,39.4,109.8,64,67.7,192.5,64.4,74.6,295,13.3,12.9,144,144,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2021 Lexus UX,6,"Premium Unleaded I-4, 2.0 L",Midsize,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,10,4,5,3307,42.1,55.1,36.5,103.9,61,60.6,177,61,72.4,169,11.1,12,126,126,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2021 Land Rover Discovery Sport,6,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,9,4,5,4035,39.1,57.3,39.5,107.9,64.3,68,181,64,75,246,12.8,13.7,144,144,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2020 Chevrolet Bolt EV,7,Electric,Small Station Wagon,Front Wheel Drive,4dr Car,Partially Regenerative Electro-Hydraulic,Aluminum,Aluminum,MacPherson Strut,Compound Crank (Torsion Beam),1,4,5,3563,41.6,54.6,39.7,102.4,59.1,62.8,164,59.1,69.5,200,10,11,127.5,127.5,36000,3,6,5,No,Yes,No,Yes,Yes,No,No,No,Yes
+2020 Hyundai Ioniq,7,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,3488,42.2,56.1,38.2,106.3,61.6,58.1,176,61.2,71.7,134,11.2,11,104,104,60000,5,7,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2020 Kia Soul,6,"Regular Unleaded I-4, 2.0 L",Small Station Wagon,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,2844,41.1,55.5,39.4,102.4,62.4,63,165.2,62,70.9,147,10.3,11,110.5,110.5,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Nissan Leaf,7,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Torsion Beam,1,4,5,3538,42.1,54.3,41.2,106.3,61.2,61.4,176.4,60.6,70.5,147,11.5,11.1,104,104,36000,3,5,5,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+2020 Tesla Model 3,8,Electric,Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4031,42.7,56.3,40.3,113.2,62.2,56.8,184.8,62.2,72.8,210,13.2,12.6,153,153,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Tesla Model Y,7,Electric,Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4416,41.8,56.4,41,113.8,64.4,63.9,187,64.4,75.6,154,13.2,14,180.5,180.5,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Toyota Mirai,5,Electric,Subcompact Car,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,4,4075,42.5,54.3,38.5,109.4,61,60.5,192.5,60.5,71.5,151,11.4,11.6,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2019 Audi E-Tron,9,Electric,Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,1,4,5,5754,40.8,58.6,39.8,115.3,65.2,65.5,193,65.2,76.3,355,13.8,15.7,180,180,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2019 BMW i3,6,Electric,Subcompact Car,Rear Wheel Drive,4dr Car,4-Wheel Disc,Forged Aluminum,Forged Aluminum,Strut,Multi-Link,1,4,4,2972,40.5,53.6,39.6,101.2,62,62.9,158.3,61.9,69.9,170,11,11,95,104.5,50000,4,12,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+2019 Chevrolet Bolt EV,7,Electric,Small Station Wagon,Front Wheel Drive,4dr Car,Partially Regenerative,Aluminum,Aluminum,MacPherson Strut,Compound Crank (Torsion Beam),1,4,5,3563,41.6,54.6,39.7,102.4,59.1,62.8,164,59.1,69.5,200,10,11,127.5,127.5,36000,3,6,5,No,Yes,No,Yes,Yes,No,No,No,Yes
+2019 FIAT 500e,5,Electric,Minicompact,Front Wheel Drive,2dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,2,4,2980,40.7,49.4,38.9,90.6,55,60.1,142.4,55.4,64.1,111,9.4,11,82.5,97.5,50000,4,12,4,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+2019 Honda Clarity,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4024,42.2,59.7,39.1,108.3,62.5,58.2,192.7,62.2,73.9,161,12.2,12.3,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Hyundai Ioniq,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,3164,42.2,56.1,39.1,106.3,61.6,57.1,176,61.2,71.7,118,11.2,11,104,104,60000,5,7,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Jaguar I-Pace,9,Electric,Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4784,40.9,57.6,39.9,117.7,64.9,61.3,184.3,64.1,74.6,394,12.8,13.8,160,160,60000,5,6,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2019 Kia Niro,6,"Gas/Electric I-4, 1.6 L",Small Station Wagon,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3199,41.7,56,40.1,106.3,62.2,60.4,171.5,61.6,71.1,139,10.3,11,104,104,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2019 Nissan Leaf,7,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Torsion Beam,1,4,5,3433,42.1,54.3,41.2,106.3,61.2,61.4,176.4,60.6,70.5,147,11.5,11.1,104,104,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,Yes
+2019 Tesla Model 3,7,Electric,Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4072,42.7,56.3,40.3,113.2,62.2,56.8,184.8,62.2,72.8,210,13.2,12.6,153,153,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2019 Tesla Model X,8,Electric,Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,5421,41.2,60.7,41.7,116.7,67.3,66,198.3,67.1,78.7,268,14.4,14,180,190,50000,4,12,8,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2019 Tesla Model S,8,Electric,Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4883,42.7,57.7,38.8,116.5,66.9,56.5,196,65.4,77.3,275,14.4,14,152,152,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2019 Toyota Mirai,5,Electric,Subcompact Car,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,4,4075,42.5,54.3,38.5,109.4,61,60.5,192.5,60.5,71.5,151,11.4,11.6,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2018 Audi A3,7,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Subcompact Car,Front Wheel Drive,Convertible,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,7,2,4,3428,41.2,54.8,37.4,102.2,60.1,55.5,174.1,61.2,70.7,186,10.7,12.3,127.5,127.5,50000,4,12,4,No,No,No,Yes,Yes,Yes,No,No,Yes
+2018 BMW i3,7,Electric,Subcompact Car,Rear Wheel Drive,4dr Car,4-Wheel Disc,Forged Aluminum,Forged Aluminum,Strut,Multi-Link,1,4,4,2961,40.5,53.6,39.6,101.2,61.3,62.9,158.3,61.9,69.9,170,11,11,95,104.5,50000,4,12,4,No,Yes,Yes,No,Yes,No,No,No,Yes
+2018 Chevrolet Bolt EV,7,Electric,Small Station Wagon,Front Wheel Drive,4dr Car,Regenerative,Aluminum,Aluminum,Independent,Semi-independent,1,4,5,3563,41.6,54.6,39.7,102.4,59.1,62.8,164,59.1,69.5,200,10,11,127.5,127.5,36000,3,6,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2018 FIAT 500e,6,Electric,Minicompact,Front Wheel Drive,2dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,2,4,2980,40.7,49.4,38.9,90.6,55,60.1,142.4,55.4,64.1,111,9.4,11,82.5,97.5,50000,4,12,4,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+2018 Ford Focus,6,Electric,Compact,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Short And Long Arm,1,4,5,3640,41.9,55.6,38.3,104.3,59.6,58.2,172.9,60.5,71.8,143,10.7,10.9,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2018 Honda Clarity,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4024,42.2,59.7,39.1,108.3,62.5,58.2,192.7,62.2,73.9,161,12.2,12.3,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2018 Hyundai Ioniq,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,3164,42.2,56.1,39.1,106.3,61.6,57.1,176,61.2,71.7,118,11.2,11,104,104,60000,5,7,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2018 Kia Niro,6,"Gas/Electric I-4, 1.6 L",Small Station Wagon,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3199,41.7,56,40.1,106.3,62.2,60.4,171.5,61.6,71.1,139,10.3,11,104,104,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2018 Nissan Leaf,7,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Torsion Beam,1,4,5,3433,42.1,54.3,41.2,106.3,61.2,61.4,176.4,60.6,70.5,147,11.5,11.1,104,104,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,Yes
+2018 Tesla Model X,8,Electric,Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,5421,41.2,60.7,41.7,116.7,67.3,66,198.3,67.1,78.7,268,14.4,14,180,190,50000,4,12,8,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2018 Tesla Model S,8,Electric,Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4736,42.7,57.7,38.8,116.5,66.9,56.5,196,65.4,77.3,275,14.4,14,152,152,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2018 Tesla Model 3,7,Electric,Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4072,42.7,56.3,40.3,113.2,62.2,56.8,184.8,62.2,72.8,210,13.2,14,153,153,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2018 Toyota Mirai,5,Electric,Subcompact Car,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,4,4075,42.5,54.3,38.5,109.4,61.8,60.5,192.5,60.5,71.5,151,11.4,11.6,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2017 Audi A3,7,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Subcompact Car,Front Wheel Drive,Convertible,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,7,2,4,3428,41.2,54.8,37.4,102.2,60.1,55.5,174.1,61.2,70.7,186,10.7,12.3,127.5,127.5,50000,4,12,4,No,No,No,Yes,Yes,Yes,No,No,Yes
+2017 BMW i3,7,Electric,Subcompact Car,Rear Wheel Drive,4dr Car,4-Wheel Disc,Forged Aluminum,Forged Aluminum,Strut,Multi-Link,1,4,4,2866,40.5,53.6,39.6,101,62,62,157,61.9,70,170,11,11,95,95,50000,4,12,4,No,Yes,Yes,No,Yes,No,No,Yes,No
+2017 Chevrolet Bolt EV,7,Electric,Small Station Wagon,Front Wheel Drive,4dr Car,Regenerative,Aluminum,Aluminum,Independent,Semi-independent,1,4,5,3563,41.6,54.6,39.7,102.4,59.1,62.8,164,59.1,69.5,200,10,11,127.5,127.5,36000,3,6,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2017 FIAT 500e,6,Electric,Minicompact,Front Wheel Drive,2dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,2,4,2980,40.7,49.4,38.9,90.6,55,60.1,142.4,55.4,64.1,111,9.4,11,82.5,97.5,50000,4,12,4,No,Yes,Yes,No,Yes,No,Yes,Yes,No
+2017 Ford Focus,6,Electric,Compact,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Short And Long Arm,1,4,5,3640,41.9,55.6,38.3,104.3,59.6,58.2,172.9,60.5,71.8,143,10.7,10.9,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2017 Honda Clarity,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4024,42.2,59.7,39.1,108.3,62.5,58.2,192.7,62.2,73.9,161,12.2,12.3,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2017 Hyundai Ioniq,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,3164,42.2,56.1,39.1,106.3,61.6,57.1,176,61.2,71.7,118,11.2,11,104,104,60000,5,7,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2017 Nissan Leaf,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Torsion Beam,1,4,5,3323,42.1,54.3,41.2,106.3,60.4,61,175,60.6,69.7,107,11.5,11.1,96,96,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,Yes
+2017 smart fortwo,5,"Premium Unleaded I-3, 1.0 L",Two Seaters,Rear Wheel Drive,Convertible,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Other,5,2,2,2094,41.2,48,39.7,73.7,56.3,61.1,106.1,57.8,65.5,89,8,11,67.5,82.5,50000,4,4,4,No,Yes,No,No,Yes,Yes,No,No,No
+2017 Tesla Model S,8,Electric,Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4736,42.7,57.7,38.8,116.5,66.9,56.5,196,65.4,77.3,275,14.4,14,152,152,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2017 Tesla Model X,8,Electric,Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,5267,41.2,60.7,41.7,116.7,67.3,66,198.3,67.1,78.7,260,14.4,14,180,200,50000,4,12,8,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2017 Toyota Mirai,5,Electric,Subcompact Car,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,4,4075,42.5,54.3,38.5,109.4,61.8,60.5,192.5,60.5,71.5,151,11.4,11.6,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2017 Volkswagen e-Golf,6,Electric,Compact,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,2455,41.2,55.9,38.4,103.5,59.5,57.2,168.1,60.8,70.8,134,10.7,11.3,104,104,36000,3,12,5,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2016 Audi A3,8,"Intercooled Turbo Premium Unleaded I-4, 1.8 L",Subcompact Car,Front Wheel Drive,Convertible,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,2,4,3396,41.2,54.8,37.4,102.2,60.1,55.5,175,61.2,70.7,170,10.7,12.3,127.5,127.5,50000,4,12,4,No,No,No,Yes,Yes,Yes,No,Yes,Yes
+2016 BMW i3,8,Electric,Subcompact Car,Rear Wheel Drive,4dr Car,4-Wheel Disc,Forged Aluminum,Forged Aluminum,Strut,Multi-Link,1,4,4,2860,40.5,53.6,39.6,101,62,62,157,61.9,70,170,11,11,95,95,50000,4,12,4,No,Yes,Yes,No,Yes,No,No,No,No
+2016 Chevrolet Spark,8,"Gas I4, 1.4L",Subcompact Car,Front Wheel Drive,4dr Car,Power,Steel,Steel,MacPherson Strut,Compound Crank,1,4,4,2278,41.7,50.8,39,93.9,54.5,58.4,143.1,54.5,62.8,98,7.9,10.1,90,90,36000,3,6,5,Yes,Yes,Yes,No,Yes,No,No,No,Yes
+2016 Ford Focus Electric,7,Electric,Compact,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Short And Long Arm,1,4,5,3640,41.9,55.6,38.3,104.3,59.6,58.2,172.9,60.5,71.8,143,10.7,10.9,119,119,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,Yes,Yes
+2016 Kia Soul EV,8,Electric,Small Station Wagon,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,3289,40.9,55.5,39.6,101.2,62.4,63,163,62,70.9,109,11,11.8,104,104,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2016 Mitsubishi i-MiEV,7,Electric,Subcompact Car,Rear Wheel Drive,4dr Car,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Torsion Beam,1,4,4,2579,33.8,54.8,35.6,100.4,54.3,63.6,144.7,55.9,62.4,66,8,10.1,82.5,97.5,36000,3,7,5,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+2016 Nissan Leaf,8,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Torsion Beam,1,4,5,3256,42.1,54.3,41.2,106.3,60.4,61,175,60.6,69.7,107,11.5,11.1,96,96,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,Yes
+2016 smart fortwo,7,"Premium Unleaded I-3, 1.0 L",Two Seaters,Rear Wheel Drive,2dr Car,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Other,5,2,2,1984,41.2,48,39.7,73.7,56.3,61.2,106.1,57.8,65.5,89,8,11,67.5,82.5,50000,4,4,4,No,Yes,No,No,Yes,No,No,No,No
+2016 Tesla Model X,8,Electric,Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,5267,41.2,60.7,41.7,116.7,67.3,66,198.3,67.1,78.7,518,14.4,14,180,200,50000,4,12,8,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2016 Tesla Model S,9,Electric,Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4647,42.7,57.7,38.8,116.5,66.9,56.5,196,65.4,77.3,518,14.4,14,152,152,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2016 Volkswagen e-Golf,8,Electric,Compact,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3380,41.2,55.9,38.4,103.6,59.5,57.1,168.1,60.8,70.8,115,10.7,11.3,104,104,36000,3,12,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2015 BMW i3,8,Electric,Subcompact Car,Rear Wheel Drive,4dr Car,4-Wheel Disc,Forged Aluminum,Forged Aluminum,Strut,Multi-Link,1,4,4,2860,40.5,53.6,39.6,101,62,62,157,61.9,70,170,11,11,95,95,50000,4,12,4,No,Yes,Yes,No,Yes,No,No,No,No
+2015 Chevrolet Spark,7,"Gas I4, 1.2L",Subcompact Car,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,Compound Crank,1,4,4,2368,42,50.7,39.4,93.5,55.5,61,144.7,55.7,62.9,84,7.9,10.1,127.5,82.5,36000,3,6,5,Yes,Yes,Yes,No,Yes,No,No,No,No
+2015 Nissan Leaf,8,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Torsion Beam,1,4,5,3256,42.1,54.3,41.2,106.3,60.4,61,175,60.6,69.7,107,11.5,11.1,96,96,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,Yes
+2015 Tesla Model S,9,Electric,Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4608,42.7,57.7,38.8,116.5,66.9,56.5,196,65.4,77.3,329,14.4,14,152,152,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2014 BMW i3,8,Electric,Subcompact Car,Rear Wheel Drive,4dr Car,4-Wheel Disc,Forged Aluminum,Forged Aluminum,Strut,Multi-Link,1,4,4,2860,40.5,53.6,39.6,101,62,62,157,61.9,70,170,11,11,95,95,50000,4,12,4,No,Yes,Yes,No,Yes,No,No,No,No
+2014 Cadillac ELR,8,"Gas/Electric, 1.4L",Compact,Front Wheel Drive,2dr Car,Regenerative,Aluminum,Aluminum,HiPer Strut,Watts Link,1,2,4,4050,42.2,55.2,36.9,106.1,62.4,55.9,186,62.1,72.7,84,16,17,170,170,50000,4,6,6,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+2014 Chevrolet Spark,7,"Gas I4, 1.2L",Subcompact Car,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,Compound Crank,4,4,4,2368,42,50.7,39.4,93.5,55.5,61,144.7,55.7,62.9,84,7.9,10.1,127.5,82.5,36000,3,6,5,Yes,Yes,Yes,No,Yes,No,No,No,No
+2014 Mitsubishi i-MiEV,8,Electric,Subcompact Car,Rear Wheel Drive,4dr Car,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Torsion Beam,1,4,4,2579,33.8,54.8,35.6,100.4,54.3,63.6,144.7,55.9,62.4,66,8,10.1,82.5,97.5,36000,3,7,5,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+2014 Nissan Leaf,8,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Torsion Beam,1,4,5,3256,42.1,54.3,41.2,106.3,60.4,61,175,60.6,69.7,107,11.5,11.1,96,96,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,Yes
+2014 smart fortwo,6,"Premium Unleaded I-3, 1.0 L",Two Seaters,Rear Wheel Drive,Convertible,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Other,5,2,2,1852,41.2,48,39.7,73.5,54.5,60.7,106.1,50.5,61.4,70,8,11,67.5,82.5,50000,4,4,4,No,No,No,No,No,Yes,No,No,No
+2014 Tesla Model S,9,Electric,Large Cars,Rear Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4647,42.7,57.7,38.8,116.5,66.9,56.5,195.9,65.4,77.3,302,14.4,14,152,152,50000,4,12,8,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2014 Toyota RAV4,7,"Regular Unleaded I-4, 2.5 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Steel,Steel,Strut,Double Wishbone,6,4,5,3550,42.6,57.3,39.8,104.7,61.8,65.4,179.9,61.8,72.6,176,11.2,10.8,110.5,110.5,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2013 Chevrolet Spark,6,"Gas I4, 1.2L",Minicompact,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,Compound Crank,4,4,4,2269,42,50.7,39.4,93.5,55.5,61,144.7,55.7,62.9,84,7.9,10.1,67.5,82.5,36000,3,6,5,Yes,Yes,Yes,No,Yes,No,No,No,No
+2013 Nissan Leaf,8,Electric,Midsize,Front Wheel Drive,4dr Car,Power,Steel,Steel,MacPherson Strut,Torsion Beam,1,4,5,3256,42.1,54.3,41.2,106.3,60.4,61,175,60.6,69.7,107,7.245,12.254,104,96,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,No
+2013 smart fortwo,6,"Gas I3, 1.0",Minicompact,Rear Wheel Drive,Convertible,Power,Aluminum,Aluminum,MacPherson Strut,Independent,5,2,2,1852,41.2,48,39.7,73.5,54.5,60.7,106.1,50.5,61.4,70,8,11,67.5,82.5,50000,4,4,4,No,Yes,No,No,No,No,No,No,No
+2013 Tesla Model S,9,Electric,Large Cars,Rear Wheel Drive,4dr Car,Power,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4647,42.7,57.7,38.8,116.5,66.9,56.5,196,65.4,77.3,362,15.84,18.2,152,152,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2013 Toyota RAV4,7,"Gas I4, 2.5L",Standard SUV 4WD,All Wheel Drive,Sport Utility,Power,Steel,Steel,MacPherson Strut,Double Wishbone,6,4,5,3550,42.6,57.3,39.8,104.7,61.8,65.4,179.9,61.8,72.6,176,11.2,10.8,110.5,110.5,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2012 Ford Focus Electric,9,Electric,Compact,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,Multi-Link,1,4,5,3640,43.7,55.6,38.3,104.3,59.6,58.2,172.9,60.5,71.8,143,11,12.6,127.5,110.5,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,Yes,Yes
+2012 Nissan Leaf,8,Electric,Midsize,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,Torsion Beam,1,4,5,3401,42.1,54.4,41.2,106.3,60.4,61,175,60.6,69.7,107,6.9,12.21,104,104,36000,3,5,5,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+2012 Tesla Model S,9,Electric,Large Cars,Rear Wheel Drive,4dr Car,Power,Aluminum,Aluminum,Double Wishbone,Multi-Link,1,4,5,4647,42.7,57.7,38.8,116.5,66.9,56.5,196,65.4,77.3,362,15.84,18.2,152,152,50000,4,12,4,No,Yes,No,Yes,Yes,No,No,No,Yes
+2012 Toyota RAV4,7,"Gas I4, 2.5L",Standard SUV 4WD,Four Wheel Drive,Sport Utility,Power,Steel,Steel,MacPherson strut,Double Wishbone,4,4,5,3494,41.8,57.1,40.8,104.7,61.4,66.3,181.9,61.4,71.5,179,11.2,10.8,104,104,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,No
+2011 Nissan Leaf,8,Electric,Midsize,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,Torsion Beam,1,4,5,3375,42.1,54.4,41.2,106.3,60.4,61,175,60.6,69.7,107,6.9,12.21,104,104,36000,3,5,5,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+2011 smart fortwo,7,"Gas I3, 1.0",Minicompact,Rear Wheel Drive,Convertible,Power,Alloy,Alloy,McPherson,DeDion,5,2,2,1852,41.2,48,39.7,73.5,54.5,60.7,106.1,50.5,61.4,70,8,11,67.5,82.5,24000,2,4,2,No,Yes,No,No,No,No,No,No,No
+2020 Acura MDX,7,"Premium Unleaded V-6, 3.5 L",Small SUV 2WD,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,9,4,6,4090,41.4,61.1,38.1,111,66.3,67.4,196.2,66.3,77.7,290,13,12.6,170,170,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Acura RLX,6,"Gas/Electric V-6, 3.5 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,7,4,5,4380,42.3,59.6,37.6,112.2,64.2,57.7,198.1,64.3,74.4,377,12.2,13,152,152,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Audi A8,7,"Intercooled Turbo Gas/Electric V-6, 3.0 L",Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,8,4,5,4773,41.5,59.1,38.3,123.1,64.3,58.5,208.7,64.7,76.6,335,13.8,14.8,171,171,50000,4,12,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Chevrolet Malibu,6,"Turbocharged Gas I4, 1.5L",Midsize,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,4-Link,1,4,5,3126,41.5,58.5,39.1,111.4,62.5,57.9,194.2,62.6,73,160,11.3,11.8,120,120,36000,3,6,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2020 Ford Fusion,6,"Regular Unleaded I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Multi-Link,6,4,5,3410,44.3,57.8,39.2,112.2,62.4,58.1,191.7,62.7,75.2,175,11.9,11.8,104,104,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2016 Ford Fusion,9,"Regular Unleaded I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3431,44.3,57.8,39.2,112.2,62.4,58.1,191.7,62.7,72.9,175,11.9,11.8,104,104,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2016 Honda Accord,8,"Regular Unleaded I-4, 2.4 L",Compact,Front Wheel Drive,2dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,2,5,3336,42.2,58.9,37.2,107.3,62.7,56.5,189.5,62.4,73,185,11.5,11.5,144,144,36000,3,5,5,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+2016 Kia Optima,9,"Regular Unleaded I-4, 2.4 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3362,45.5,58.1,39.8,110.4,63.4,57.7,191.1,63.1,73.2,185,11.2,12,119,119,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2016 Lexus LS,8,"Premium Unleaded V-8, 4.6 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,8,4,5,4651,43.7,58.5,38,116.9,63.6,58.3,200,63.6,73.8,360,13.1,14,135,135,50000,4,6,6,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2016 Lincoln MKZ,8,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3874,44.3,57.7,37.9,112.2,62,58.1,194.1,62.3,73.4,240,12.4,12.4,144,144,50000,4,5,6,No,Yes,Yes,Yes,No,No,No,Yes,Yes
+2016 Volvo XC90,8,"Intercooled Turbo Regular Unleaded I-4, 2.0 L",Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,4394,40.9,57.7,38.9,117.5,66.1,69.9,194.8,66,79.1,250,12.1,13.2,180,180,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2015 Audi Q5,8,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,8,4,5,4079,41,57.7,39.4,110.5,63.5,65.2,182.6,63.7,74.7,220,11.8,12.6,144,144,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+2015 BMW 7-Series,9,"Intercooled Turbo Diesel I-6, 3.0 L",Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,4685,41.2,59.2,40.8,126.4,65,58.3,205.3,63.4,74.9,255,14.5,14.7,144,144,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2015 Buick Lacrosse,8,"Gas/Electric I4, 2.4L",Midsize,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,4-Link,6,4,5,3756,41.7,57.4,38,111.7,62,59.2,196.9,61.7,73.1,182,5.75,14.04,127.5,119,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2015 Ford Fusion,9,"Regular Unleaded I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3431,44.3,57.8,39.2,112.2,62.4,58.1,191.7,62.7,72.9,175,11.9,11.8,104,104,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2015 INFINITI Q50,8,"Premium Unleaded V-6, 3.7 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,7,4,5,3748,44.5,56.7,40.2,112.2,60.2,57.2,188.3,59.8,71.8,328,12.1,12.6,127.5,127.5,60000,4,7,6,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Ford Fusion,6,"Regular Unleaded I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Multi-Link,6,4,5,3410,44.3,57.8,39.2,112.2,62.4,58.1,191.7,62.7,75.2,175,11.9,11.8,104,104,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Chevrolet Malibu,6,"Gas/Electric I4, 1.8L",Midsize,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,4-Link,1,4,5,3366,41.5,58.5,39.1,111.4,62.5,57.3,194.2,62.6,73,122,11.3,11.8,136,136,36000,3,6,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Honda Clarity,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4024,42.2,59.7,39.1,108.3,62.5,58.2,192.7,62.2,73.9,161,12.2,12.3,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2018 Ford C-Max,5,"Gas/Electric I-4, 2.0 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3640,43.1,55.9,41,104.3,60.4,63.9,173.6,60.5,72,188,11,10.9,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2018 Toyota Prius C,5,"Gas/Electric I-4, 1.5 L",Compact,Front Wheel Drive,4dr Car,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,2530,41.7,52.3,37.9,100.4,58.1,58.7,159.8,58.5,67.5,99,9,10,75,75,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2015 INFINITI Q70,9,"Premium Unleaded V-6, 3.7 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,7,4,5,4063,44,58.4,39.1,114.2,61.6,59.6,194.7,62,72.6,330,12.1,12.6,144,144,60000,4,7,6,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2015 Lexus LS,8,"Premium Unleaded V-8, 4.6 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,8,4,5,4651,43.7,58.5,38,116.9,63.6,58.3,200,63.6,73.8,360,13.1,14,135,135,50000,4,6,6,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2015 Lincoln MKZ,9,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3874,44.3,57.7,37.9,112.2,62,58.1,194.1,62.3,73.4,240,12.4,12.4,144,144,50000,4,5,6,No,Yes,Yes,Yes,No,No,No,Yes,Yes
+2014 BMW 7-Series,9,"Intercooled Turbo Premium Unleaded I-6, 3.0 L",Large Cars,Rear Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,4432,41.2,59.2,40.8,126.4,65,58.3,205.3,63.4,74.9,315,14.5,14.7,144,144,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2014 BMW 7-Series,9,"Intercooled Turbo Premium Unleaded I-6, 3.0 L",Large Cars,Rear Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,4432,41.2,59.2,40.8,126.4,65,58.3,205.3,63.4,74.9,315,14.5,14.7,144,144,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Honda Accord,7,"Gas/Electric I-4, 2.0 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3373,42.3,58.3,37.5,111.4,63.4,57.1,192.2,63,73.3,212,11.1,11.5,127.5,127.5,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Honda CR-V,6,"Intercooled Turbo Regular Unleaded I-4, 1.5 L",Small SUV 2WD,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3398,41.3,57.9,38,104.8,63.7,66.1,182.1,63,73,190,10.2,11.1,135,135,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Honda Insight,7,"Gas/Electric I-4, 1.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3000,42.3,56.9,39.3,106.3,61.6,55.6,183.6,60.9,71.6,151,10.2,11.1,112,112,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2020 Hyundai Ioniq,7,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,3488,42.2,56.1,38.2,106.3,61.6,58.1,176,61.2,71.7,134,11.2,11,104,104,60000,5,7,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2020 Kia Niro,6,"Gas/Electric I-4, 1.6 L",Small Station Wagon,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3199,41.7,56,40.1,106.3,62.2,60.4,171.5,61.6,71.1,139,10.3,11,104,104,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Kia Optima,7,"Intercooled Turbo Regular Unleaded I-4, 1.6 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,7,4,5,3285,45.5,58.1,39.8,110.4,63.4,57.7,191.1,63.1,73.2,178,11.2,12,110.5,110.5,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Land Rover Discovery Sport,6,"Intercooled Turbo Gas/Electric I-4, 2.0 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,9,4,5,4145,39.1,57.3,39.5,107.9,64.7,68,181,64.4,75,286,12.8,13.7,160,160,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2020 Land Rover Range Rover Evoque,6,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,9,4,5,3935,40,56.6,38.9,105.6,64.2,64.9,172.1,64,75,246,12.6,13.7,160,160,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Land Rover Range Rover,8,"Intercooled Supercharger Premium Unleaded V-8, 5.0 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,5404,39.1,60.9,39.5,122.9,66.3,73.5,207.4,66.6,78.1,518,14.4,15,199.5,199.5,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Land Rover Range Rover Sport,8,"Intercooled Turbo Gas/Electric I-4, 2.0 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,5448,42.2,60.7,39.5,115.1,66.3,71,192.1,66.7,78.1,398,14.4,15,199.5,199.5,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Lexus ES,8,"Gas/Electric I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3704,42.4,55.9,37.5,113,63.4,56.9,195.9,63,73.4,215,11.1,12,127.5,127.5,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2020 Lexus LC,7,"Premium Unleaded V-8, 5.0 L",Subcompact Car,Rear Wheel Drive,2dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,10,2,4,4280,42,56.5,37.2,113,64.4,53,187.4,64.2,75.6,471,14.1,15.7,170,190,50000,4,6,6,No,Yes,Yes,No,Yes,No,No,No,Yes
+2020 Lexus LS,7,"Twin Turbo Premium Unleaded V-6, 3.5 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,10,4,5,4938,41,58.8,37.3,123,64.4,57.9,206.1,64.2,74.8,416,13.1,14,152,152,50000,4,6,6,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2020 Lexus NX,6,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Double Wishbone,6,4,5,4050,42.8,57.3,38.2,104.7,62.2,64.8,182.3,62.2,73.6,235,11.2,11.7,119,119,50000,4,6,6,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Lexus RX,6,"Regular Unleaded V-6, 3.5 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Double Wishbone,8,4,5,4387,44.1,57.8,39.4,109.8,64,67.7,192.5,64.4,74.6,295,13.3,12.9,144,144,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2020 Lexus UX,6,"Premium Unleaded I-4, 2.0 L",Midsize,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,10,4,5,3307,42.1,55.1,36.6,103.9,61,60.6,177,61,72.4,169,11.1,12,126,126,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Lincoln Aviator,7,"Twin Turbo Premium Unleaded V-6, 3.0 L",Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,10,4,6,4892,43,61.5,40.2,119.1,66.9,69.6,199.3,66.9,82.3,400,13.8,13.6,220,220,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2020 Lincoln Corsair,7,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,8,4,5,3851,43.2,57.1,39.5,106.7,63.4,64.1,180.6,62.6,74.3,250,11,13.4,161.5,161.5,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2020 Lincoln MKZ,6,"Gas/Electric I-4, 2.0 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3871,44.3,57.7,37.9,112.2,62,58.1,194.1,62.3,73.4,188,12.4,12.4,152,152,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2020 Mercedes-Benz AMG GT,7,"Intercooled Turbo Gas/Electric I-6, 3.0 L",Compact,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,9,4,4,4530,41.7,57.8,40.8,116.2,65.6,57.3,199.2,65.9,76.9,429,14.2,14.2,180.5,209,50000,4,4,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2020 Mercedes-Benz E Class,8,"Intercooled Turbo Gas/Electric I-6, 3.0 L",Subcompact Car,All Wheel Drive,Convertible,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,9,2,4,3781,41.3,56.1,40.7,113.1,62.8,56.2,190.6,64.1,73.2,429,14.2,14.6,152,171,50000,4,4,4,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+2020 Mercedes-Benz GLE Class,7,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,9,4,5,4696,40.3,59.3,40.5,117.9,66.4,70.7,194.3,65.6,76.7,255,13,13,152,152,50000,4,4,4,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2020 Ram 1500,6,"Gas/Electric V-6, 3.6 L",Small SUV 4WD,Rear Wheel Drive,Crew Cab Pickup - Short Bed,4-Wheel Disc,Aluminum,Aluminum,Short And Long Arm,Multi-Link,8,4,6,4878,40.9,66,40.9,144.5,68.1,77.5,232.9,68.5,82.1,305,14.8,14.9,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2016 Volvo XC90,8,"Intercooled Turbo Regular Unleaded I-4, 2.0 L",Standard SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,4394,40.9,57.7,38.9,117.5,66.1,69.9,194.8,66,79.1,250,12.1,13.2,180,180,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2014 BMW i8,9,"Intercooled Turbo Gas/Electric I-3, 1.5 L",Subcompact Car,All Wheel Drive,2dr Car,4-Wheel Disc,Forged Aluminum,Forged Aluminum,Double Wishbone,Multi-Link,6,2,4,3455,43.1,56.7,38.7,110.2,67.8,50.8,184.9,64.7,76.5,357,13,13.4,150,170,50000,4,12,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+2014 Ford Fusion,9,"Regular Unleaded I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Multi-Link,6,4,5,3431,44.3,57.8,39.2,112.2,62.4,58.1,191.7,62.7,72.9,175,11.9,11.8,104,104,36000,3,5,5,No,Yes,Yes,Yes,No,No,No,No,No
+2014 INFINITI Q70,8,"Premium Unleaded V-6, 3.7 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,7,4,5,4063,44,58.4,39.1,114.2,61.6,59.6,194.7,62,72.6,330,12.1,12.6,144,144,60000,4,7,6,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+2014 INFINITI QX60,8,"Premium Unleaded V-6, 3.5 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,7,4419,42.3,60.3,40.7,114.2,65.7,68.6,196.4,65.7,77.2,265,12.1,12.6,135,135,60000,4,7,6,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+2014 Lexus LS,8,"Premium Unleaded V-8, 4.6 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,8,4,5,4651,43.7,58.5,38,116.9,63.6,58.3,200,63.6,73.8,360,13.1,14,135,135,50000,4,6,6,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2014 Mercedes-Benz S Class,9,"Twin Turbo Premium Unleaded V-8, 4.6 L",Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,7,4,5,4773,41.4,59.7,39.7,124.6,64.5,58.8,206.5,63.9,74.8,449,11.8,13.2,153,153,50000,4,4,4,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2014 Toyota Prius C,7,"Gas/Electric I-4, 1.5 L",Compact,Front Wheel Drive,4dr Car,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,2500,41.7,52.3,38.6,100.4,58.1,56.9,157.3,58.3,66.7,99,10.2,10,75,75,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+2013 BMW 3-Series,8,"Gas I6, 3.0L",Subcompact Car,Rear Wheel Drive,Convertible,Power,Aluminum,Aluminum,MacPherson Strut,5-Link,6,2,4,3825,42,55.3,38,108.7,59.6,54.5,181.9,59.1,71.5,230,11.8,12.3,136,136,50000,4,12,4,No,No,No,No,Yes,Yes,Yes,No,No
+2013 BMW 5-Series,8,"Turbocharged Gas I4, 2.0L",Midsize,Rear Wheel Drive,4dr Car,Power,Aluminum,Aluminum,Control Arm,Integral-V Multi-Arm,8,4,5,3714,41.4,58.3,39.1,116.85,64.055,57.637,192.874,62.992,73.228,245,10.224704,16.1797,136,136,50000,4,12,4,No,Yes,Yes,Yes,No,No,Yes,No,No
+2013 BMW 7-Series,9,"Turbocharged Gas I6, 3.0L",Large Cars,Rear Wheel Drive,4dr Car,Power,Aluminum,Aluminum,Double Wishbone,Integral-V,8,4,5,4350,41.3,59.2,40.8,126.4,65,58.3,205.3,63.4,74.9,315,12.24,20.58,144,144,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2013 Ford Fusion,9,"Gas I4, 2.5L",Midsize,Front Wheel Drive,4dr Car,Power,Steel,Steel,MacPherson Strut,Multi-Link,6,4,5,3427,44.3,57.8,39.2,112.2,62.4,58.1,191.7,62.7,72.9,170,11.9,11.8,104,104,36000,3,5,5,Yes,Yes,Yes,Yes,No,No,No,No,No
+2019 Acura RLX,7,"Gas/Electric V-6, 3.5 L",Midsize,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,7,4,5,4380,42.3,59.6,37.6,112.2,64.2,57.7,198.1,64.3,74.4,377,12.2,13,152,152,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2019 Audi A8,8,"Intercooled Turbo Gas/Electric V-6, 3.0 L",Large Cars,All Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,8,4,5,4751,41.5,59.1,38.3,123.1,64.3,58.5,208.7,64.7,76.6,335,13.8,14.8,171,171,50000,4,12,4,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2019 Chevrolet Malibu,6,"Gas/Electric I4, 1.8L",Midsize,Front Wheel Drive,4dr Car,Power,Aluminum,Aluminum,MacPherson Strut,4-Link,1,4,5,3366,41.5,58.5,39.1,111.4,62.5,57.3,194.2,62.6,73,122,11.3,11.8,136,136,36000,3,6,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Chevrolet Volt,7,"Gas/Electric I4, 1.5L",Compact,Front Wheel Drive,4dr Car,Regenerative,Aluminum,Aluminum,MacPherson Strut,Compound Crank,1,4,5,3519,42.1,56.5,37.8,106.1,61.8,56.4,180.4,60.6,71.2,149,10,11,119,119,36000,3,6,5,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Ford Fusion,6,"Regular Unleaded I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Steel,Steel,Strut,Multi-Link,6,4,5,3410,44.3,57.8,39.2,112.2,62.4,58.1,191.7,62.7,75.2,175,11.9,11.8,104,104,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Honda Accord,7,"Gas/Electric I-4, 2.0 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3373,42.3,58.3,37.5,111.4,63.4,57.1,192.2,63,73.3,212,11.1,11.5,127.5,127.5,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2019 Honda Clarity,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4024,42.2,59.7,39.1,108.3,62.5,58.2,192.7,62.2,73.9,161,12.2,12.3,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Honda Insight,7,"Gas/Electric I-4, 1.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3000,42.3,56.9,39.3,106.3,61.6,55.6,183.6,60.9,71.6,151,10.2,11.1,112,112,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Hyundai Ioniq,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,3164,42.2,56.1,39.1,106.3,61.6,57.1,176,61.2,71.7,118,11.2,11,104,104,60000,5,7,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Hyundai Sonata,6,"Intercooled Turbo Regular Unleaded I-4, 1.6 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,7,4,5,3247,45.5,57.9,40.4,110.4,63.8,58.1,191.1,63.5,73.4,178,11.2,12,104,104,60000,5,7,10,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Kia Niro,6,"Gas/Electric I-4, 1.6 L",Small Station Wagon,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,6,4,5,3199,41.7,56,40.1,106.3,62.2,60.4,171.5,61.6,71.1,139,10.3,11,104,104,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2019 Kia Optima,7,"Intercooled Turbo Regular Unleaded I-4, 1.6 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,7,4,5,3285,45.5,58.1,39.8,110.4,63.4,57.7,191.1,63.1,73.2,178,11.2,12,110.5,110.5,60000,5,5,10,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2019 Land Rover Range Rover Sport,8,"Intercooled Turbo Gas/Electric I-4, 2.0 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,8,4,5,5448,42.2,60.7,39.5,115,66.3,71,192.1,66.5,78.1,398,14.4,15,190,190,50000,4,6,4,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+2019 Lexus ES,8,"Gas/Electric I-4, 2.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3704,42.4,55.9,37.5,113,63.4,56.9,195.9,63,73.4,215,11.1,12,127.5,127.5,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Lexus LC,7,"Premium Unleaded V-8, 5.0 L",Subcompact Car,Rear Wheel Drive,2dr Car,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,10,2,4,4280,42,56.5,37.2,113,64.4,53,187.4,64.2,75.6,471,14.1,15.7,170,190,50000,4,6,6,No,Yes,Yes,No,Yes,No,No,No,Yes
+2019 Lexus UX,6,"Premium Unleaded I-4, 2.0 L",Midsize,Front Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,10,4,5,3307,42.1,55.1,36.6,103.9,61,60.6,177,61,72.4,169,11.1,12,126,126,50000,4,6,6,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2019 Mercedes-Benz E Class,8,"Intercooled Turbo Gas/Electric I-6, 3.0 L",Subcompact Car,All Wheel Drive,Convertible,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,9,2,4,3781,41.3,56.1,40.7,113.1,62.8,56.2,190.6,64.1,73.2,429,14.2,14.6,152,171,50000,4,4,4,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+2019 Mitsubishi Outlander,6,"Regular Unleaded I-4, 2.4 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,7,3472,40.9,56.6,40.6,105.1,60.6,67.3,184.8,60.6,71.3,166,11.9,11.6,126,126,60000,5,7,10,No,Yes,Yes,Yes,No,No,No,No,Yes
+2019 Nissan Rogue,6,"Regular Unleaded I-4, 2.5 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Steel,Steel,Strut,Multi-Link,1,4,5,3580,43,56.6,41.6,106.5,62.8,68.5,184.5,62.8,72.4,170,11.5,11.7,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2019 Ram 1500,6,"Gas/Electric V-6, 3.6 L",Small SUV 4WD,Rear Wheel Drive,Crew Cab Pickup - Short Bed,4-Wheel Disc,Aluminum,Aluminum,Short And Long Arm,Multi-Link,8,4,6,4964,40.9,66,40.9,144.5,68.1,77.5,232.9,68.5,82.1,305,14.8,14.9,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2019 Toyota Prius,6,"Gas/Electric I-4, 1.8 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3010,42.3,55,39.4,106.3,60.6,57.9,180,60.2,69.3,121,10.2,10,97.5,97.5,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2018 Ford C-Max,5,"Gas/Electric I-4, 2.0 L",Large Cars,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3640,43.1,55.9,41,104.3,60.4,63.9,173.6,60.5,72,188,11,10.9,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2018 Honda Clarity,6,Electric,Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,4024,42.2,59.7,39.1,108.3,62.5,58.2,192.7,62.2,73.9,161,12.2,12.3,144,144,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2018 Mitsubishi Outlander,6,"Regular Unleaded I-4, 2.4 L",Small SUV 4WD,Four Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,7,3494,40.9,56.6,40.6,105.1,60.6,67.3,184.8,60.6,71.3,166,11.9,11.6,126,126,60000,5,7,10,No,Yes,Yes,Yes,No,No,No,No,Yes
+2018 Toyota Prius C,5,"Gas/Electric I-4, 1.5 L",Compact,Front Wheel Drive,4dr Car,Front Disc/Rear Drum,Aluminum,Aluminum,Strut,Torsion Beam,1,4,5,2530,41.7,52.3,37.9,100.4,58.1,58.7,159.8,58.5,67.5,99,9,10,75,75,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+2017 Ford C-Max,5,"Gas/Electric I-4, 2.0 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,4,5,3899,43.1,55.9,41,104.3,60.4,63.8,173.6,60.5,72,188,11,11.8,119,119,36000,3,5,5,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+2016 Acura RLX,8,"Premium Unleaded V-6, 3.5 L",Midsize,Front Wheel Drive,4dr Car,4-Wheel Disc,Aluminum,Aluminum,Double Wishbone,Multi-Link,6,4,5,4003,42.3,59.6,37.6,112.2,64.2,57.7,196.1,64.3,74.4,310,12.2,12.3,152,152,50000,4,5,6,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2016 Audi Q5,8,"Intercooled Turbo Premium Unleaded I-4, 2.0 L",Small SUV 4WD,All Wheel Drive,Sport Utility,4-Wheel Disc,Aluminum,Aluminum,Multi-Link,Multi-Link,8,4,5,4200,41,57.7,39.4,110.5,63.5,65.2,182.6,63.7,74.7,220,11.8,12.6,144,144,50000,4,12,4,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+2016 Honda Accord,8,"Regular Unleaded I-4, 2.4 L",Compact,Front Wheel Drive,2dr Car,4-Wheel Disc,Aluminum,Aluminum,Strut,Multi-Link,1,2,5,3336,42.2,58.9,37.2,107.3,62.7,56.5,189.5,62.4,73,185,11.5,11.5,144,144,36000,3,5,5,No,Yes,Yes,No,Yes,No,Yes,No,Yes
