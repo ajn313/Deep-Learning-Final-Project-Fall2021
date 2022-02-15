@@ -1,6 +1,7 @@
 # Deep-Learning-Final-Project-Fall2021
 
 Current status: Complete!  
+Full report can be found in ajn313_Final_Project_Report.pdf  
 The TGAN Car Generator is the main Python notebook.  
 The TDCGAN proof of concept is a secondary project I did to further explore the architecture concept I was working on.  
 Both the pruned and unpruned datasets are included as csv files  
